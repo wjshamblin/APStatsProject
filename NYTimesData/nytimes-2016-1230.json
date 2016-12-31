@@ -1,0 +1,940 @@
+[
+  [
+    {
+      "type_of_material": "Obituary (Obit)", 
+      "blog": [], 
+      "news_desk": "Metro", 
+      "lead_paragraph": "Mr. Tyson led antipoverty programs from inside and outside government in New York City and Newark during the racially tense 1960s.", 
+      "headline": {
+        "main": "Cyril D. Tyson, Poverty Fighter, Dies at 89"
+      }, 
+      "abstract": null, 
+      "print_page": null, 
+      "word_count": "864", 
+      "_id": "5866f4d895d0e039260786bc", 
+      "snippet": "Mr. Tyson led antipoverty programs from inside and outside government in New York City and Newark during the racially tense 1960s....", 
+      "source": "The New York Times", 
+      "slideshow_credits": null, 
+      "web_url": "http://www.nytimes.com/2016/12/30/nyregion/cyril-degrasse-tyson-dead.html", 
+      "multimedia": [
+        {
+          "subtype": "wide", 
+          "url": "images/2017/01/01/nyregion/01tyson-obit/31tyson-obit-thumbWide.jpg", 
+          "height": 126, 
+          "width": 190, 
+          "legacy": {
+            "wide": "images/2017/01/01/nyregion/01tyson-obit/31tyson-obit-thumbWide.jpg", 
+            "wideheight": "126", 
+            "widewidth": "190"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "xlarge", 
+          "url": "images/2017/01/01/nyregion/01tyson-obit/31tyson-obit-articleLarge.jpg", 
+          "height": 464, 
+          "width": 600, 
+          "legacy": {
+            "xlargewidth": "600", 
+            "xlarge": "images/2017/01/01/nyregion/01tyson-obit/31tyson-obit-articleLarge.jpg", 
+            "xlargeheight": "464"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "thumbnail", 
+          "url": "images/2017/01/01/nyregion/01tyson-obit/31tyson-obit-thumbStandard.jpg", 
+          "height": 75, 
+          "width": 75, 
+          "legacy": {
+            "thumbnailheight": "75", 
+            "thumbnail": "images/2017/01/01/nyregion/01tyson-obit/31tyson-obit-thumbStandard.jpg", 
+            "thumbnailwidth": "75"
+          }, 
+          "type": "image"
+        }
+      ], 
+      "subsection_name": null, 
+      "keywords": [
+        {
+          "value": "Tyson, Cyril D (1927-2016)", 
+          "is_major": "N", 
+          "rank": "1", 
+          "name": "persons"
+        }, 
+        {
+          "value": "Deaths (Obituaries)", 
+          "is_major": "N", 
+          "rank": "2", 
+          "name": "subject"
+        }, 
+        {
+          "value": "Poverty", 
+          "is_major": "N", 
+          "rank": "3", 
+          "name": "subject"
+        }, 
+        {
+          "value": "Blacks", 
+          "is_major": "N", 
+          "rank": "4", 
+          "name": "subject"
+        }
+      ], 
+      "byline": {
+        "person": [
+          {
+            "firstname": "Joseph", 
+            "middlename": "P.", 
+            "lastname": "FRIED", 
+            "rank": 1, 
+            "role": "reported", 
+            "organization": ""
+          }
+        ], 
+        "original": "By JOSEPH P. FRIED"
+      }, 
+      "document_type": "article", 
+      "pub_date": "2016-12-30T23:59:15+0000", 
+      "section_name": "N.Y. / Region"
+    }, 
+    {
+      "type_of_material": "Obituary (Obit)", 
+      "blog": [], 
+      "news_desk": "Business", 
+      "lead_paragraph": "In addition to creating the popular plastic cup, Mr. Hulseman helped to invent a coffee cup lid that may be just as prevalent.", 
+      "headline": {
+        "main": "Robert L. Hulseman, Inventor of the Solo Cup, Dies at 84", 
+        "print_headline": "Robert L. Hulseman, 84, Solo Cup Inventor and Co-Creator of \u2018Nurturing\u2019 Traveler Lid"
+      }, 
+      "abstract": null, 
+      "print_page": "21", 
+      "word_count": "745", 
+      "_id": "5867156c95d0e039260786e2", 
+      "snippet": "In addition to creating the popular plastic cup, Mr. Hulseman helped to invent a coffee cup lid that may be just as prevalent....", 
+      "source": "The New York Times", 
+      "slideshow_credits": null, 
+      "web_url": "http://www.nytimes.com/2016/12/30/business/robert-hulseman-dead-red-solo-cup.html", 
+      "multimedia": [
+        {
+          "subtype": "wide", 
+          "url": "images/2016/12/31/business/31hulseman-obit-1/31hulseman-obit-1-thumbWide.jpg", 
+          "height": 126, 
+          "width": 190, 
+          "legacy": {
+            "wide": "images/2016/12/31/business/31hulseman-obit-1/31hulseman-obit-1-thumbWide.jpg", 
+            "wideheight": "126", 
+            "widewidth": "190"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "xlarge", 
+          "url": "images/2016/12/31/business/31hulseman-obit-1/31hulseman-obit-1-articleLarge.jpg", 
+          "height": 833, 
+          "width": 600, 
+          "legacy": {
+            "xlargewidth": "600", 
+            "xlarge": "images/2016/12/31/business/31hulseman-obit-1/31hulseman-obit-1-articleLarge.jpg", 
+            "xlargeheight": "833"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "thumbnail", 
+          "url": "images/2016/12/31/business/31hulseman-obit-1/31hulseman-obit-1-thumbStandard.jpg", 
+          "height": 75, 
+          "width": 75, 
+          "legacy": {
+            "thumbnailheight": "75", 
+            "thumbnail": "images/2016/12/31/business/31hulseman-obit-1/31hulseman-obit-1-thumbStandard.jpg", 
+            "thumbnailwidth": "75"
+          }, 
+          "type": "image"
+        }
+      ], 
+      "subsection_name": null, 
+      "keywords": [
+        {
+          "value": "Hulseman, Robert L (1932-2016)", 
+          "is_major": "N", 
+          "rank": "1", 
+          "name": "persons"
+        }, 
+        {
+          "value": "Deaths (Obituaries)", 
+          "is_major": "N", 
+          "rank": "2", 
+          "name": "subject"
+        }
+      ], 
+      "byline": {
+        "person": [
+          {
+            "organization": "", 
+            "role": "reported", 
+            "rank": 1, 
+            "firstname": "Richard", 
+            "lastname": "SANDOMIR"
+          }
+        ], 
+        "original": "By RICHARD SANDOMIR"
+      }, 
+      "document_type": "article", 
+      "pub_date": "2016-12-31T02:18:16+0000", 
+      "section_name": "Business Day"
+    }, 
+    {
+      "type_of_material": "Obituary (Obit)", 
+      "blog": [], 
+      "news_desk": "Sports", 
+      "lead_paragraph": "The deaths of David Bowie, Prince and Leonard Cohen drew considerable attention in a year that also claimed Muhammad Ali and Fidel Castro.", 
+      "headline": {
+        "main": "Among Deaths in 2016, a Heavy Toll in Pop Music", 
+        "print_headline": "Among Deaths in 2016, a Heavy Toll in Pop Music"
+      }, 
+      "abstract": null, 
+      "print_page": "20", 
+      "word_count": "2137", 
+      "_id": "5866caa695d0e0392607866f", 
+      "snippet": "The deaths of David Bowie, Prince and Leonard Cohen drew considerable attention in a year that also claimed Muhammad Ali and Fidel Castro....", 
+      "source": "The New York Times", 
+      "slideshow_credits": null, 
+      "web_url": "http://www.nytimes.com/2016/12/30/obituaries/among-deaths-in-2016-a-heavy-toll-in-pop-music.html", 
+      "multimedia": [
+        {
+          "subtype": "wide", 
+          "url": "images/2016/12/31/arts/31year-end-obits/31year-end-obits-thumbWide.jpg", 
+          "height": 126, 
+          "width": 190, 
+          "legacy": {
+            "wide": "images/2016/12/31/arts/31year-end-obits/31year-end-obits-thumbWide.jpg", 
+            "wideheight": "126", 
+            "widewidth": "190"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "xlarge", 
+          "url": "images/2016/12/31/arts/31year-end-obits/31year-end-obits-articleLarge.jpg", 
+          "height": 400, 
+          "width": 600, 
+          "legacy": {
+            "xlargewidth": "600", 
+            "xlarge": "images/2016/12/31/arts/31year-end-obits/31year-end-obits-articleLarge.jpg", 
+            "xlargeheight": "400"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "thumbnail", 
+          "url": "images/2016/12/31/arts/31year-end-obits/31year-end-obits-thumbStandard.jpg", 
+          "height": 75, 
+          "width": 75, 
+          "legacy": {
+            "thumbnailheight": "75", 
+            "thumbnail": "images/2016/12/31/arts/31year-end-obits/31year-end-obits-thumbStandard.jpg", 
+            "thumbnailwidth": "75"
+          }, 
+          "type": "image"
+        }
+      ], 
+      "subsection_name": null, 
+      "keywords": [
+        {
+          "value": "Deaths (Obituaries)", 
+          "is_major": "N", 
+          "rank": "1", 
+          "name": "subject"
+        }, 
+        {
+          "value": "Two Thousand Sixteen", 
+          "is_major": "N", 
+          "rank": "2", 
+          "name": "subject"
+        }
+      ], 
+      "byline": {
+        "contributor": "", 
+        "person": [
+          {
+            "organization": "", 
+            "role": "reported", 
+            "rank": 1, 
+            "firstname": "William", 
+            "lastname": "McDONALD"
+          }
+        ], 
+        "original": "By WILLIAM McDONALD"
+      }, 
+      "document_type": "article", 
+      "pub_date": "2016-12-30T20:59:15+0000", 
+      "section_name": "Obituaries"
+    }, 
+    {
+      "type_of_material": "Obituary (Obit)", 
+      "blog": [], 
+      "news_desk": "Culture", 
+      "lead_paragraph": "Mr. Cash wrote about the English novelist Laurence Sterne, and his biography of the 18th-century English radical John Wilkes was a Pulitzer finalist.", 
+      "headline": {
+        "main": "Arthur H. Cash, Writer of British Biographies, Dies at 94", 
+        "print_headline": "Arthur H. Cash, Writer of British Biographies, Dies at 94"
+      }, 
+      "abstract": null, 
+      "print_page": null, 
+      "word_count": "846", 
+      "_id": "58670eae95d0e039260786d9", 
+      "snippet": "Mr. Cash wrote about the English novelist Laurence Sterne, and his biography of the 18th-century English radical John Wilkes was a Pulitzer finalist....", 
+      "source": "The New York Times", 
+      "slideshow_credits": null, 
+      "web_url": "http://www.nytimes.com/2016/12/30/books/arthur-cash-dead-laurence-sterne-biographer.html", 
+      "multimedia": [
+        {
+          "subtype": "wide", 
+          "url": "images/2017/01/01/arts/01cash-obit-1/01cash-obit-1-thumbWide.jpg", 
+          "height": 126, 
+          "width": 190, 
+          "legacy": {
+            "wide": "images/2017/01/01/arts/01cash-obit-1/01cash-obit-1-thumbWide.jpg", 
+            "wideheight": "126", 
+            "widewidth": "190"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "xlarge", 
+          "url": "images/2017/01/01/arts/01cash-obit-1/01cash-obit-1-articleLarge.jpg", 
+          "height": 832, 
+          "width": 600, 
+          "legacy": {
+            "xlargewidth": "600", 
+            "xlarge": "images/2017/01/01/arts/01cash-obit-1/01cash-obit-1-articleLarge.jpg", 
+            "xlargeheight": "832"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "thumbnail", 
+          "url": "images/2017/01/01/arts/01cash-obit-1/01cash-obit-1-thumbStandard.jpg", 
+          "height": 75, 
+          "width": 75, 
+          "legacy": {
+            "thumbnailheight": "75", 
+            "thumbnail": "images/2017/01/01/arts/01cash-obit-1/01cash-obit-1-thumbStandard.jpg", 
+            "thumbnailwidth": "75"
+          }, 
+          "type": "image"
+        }
+      ], 
+      "subsection_name": null, 
+      "keywords": [
+        {
+          "value": "Cash, Arthur H (1922-2016)", 
+          "is_major": "N", 
+          "rank": "1", 
+          "name": "persons"
+        }, 
+        {
+          "value": "Deaths (Obituaries)", 
+          "is_major": "N", 
+          "rank": "2", 
+          "name": "subject"
+        }, 
+        {
+          "value": "Books and Literature", 
+          "is_major": "N", 
+          "rank": "3", 
+          "name": "subject"
+        }, 
+        {
+          "value": "Sterne, Laurence", 
+          "is_major": "N", 
+          "rank": "4", 
+          "name": "persons"
+        }, 
+        {
+          "value": "Wilkes, John (1725-97)", 
+          "is_major": "N", 
+          "rank": "5", 
+          "name": "persons"
+        }, 
+        {
+          "value": "Writing and Writers", 
+          "is_major": "N", 
+          "rank": "6", 
+          "name": "subject"
+        }
+      ], 
+      "byline": {
+        "person": [
+          {
+            "organization": "", 
+            "role": "reported", 
+            "rank": 1, 
+            "firstname": "William", 
+            "lastname": "GRIMES"
+          }
+        ], 
+        "original": "By WILLIAM GRIMES"
+      }, 
+      "document_type": "article", 
+      "pub_date": "2016-12-31T01:49:27+0000", 
+      "section_name": "Books"
+    }, 
+    {
+      "type_of_material": "Obituary (Obit)", 
+      "blog": [], 
+      "news_desk": "Sports", 
+      "lead_paragraph": "Edwards, a onetime defensive coordinator, developed standout quarterbacks and innovative offensive schemes as a head coach and led Brigham Young to the 1984 national title.", 
+      "headline": {
+        "main": "LaVell Edwards, Coach Who Led B.Y.U. to a Football Title, Dies at 86", 
+        "print_headline": "LaVell Edwards Dies at 86; Coached B.Y.U. to a Title"
+      }, 
+      "abstract": null, 
+      "print_page": "18", 
+      "word_count": "938", 
+      "_id": "5865b38895d0e03926078463", 
+      "snippet": "Edwards, a onetime defensive coordinator, developed standout quarterbacks and innovative offensive schemes as a head coach and led Brigham Young to the 1984 national title....", 
+      "source": "The New York Times", 
+      "slideshow_credits": null, 
+      "web_url": "http://www.nytimes.com/2016/12/29/sports/football/lavell-edwards-dead-brigham-young-football-coach.html", 
+      "multimedia": [
+        {
+          "subtype": "wide", 
+          "url": "images/2016/12/30/sports/30edwards-obit/30edwards-obit-thumbWide.jpg", 
+          "height": 126, 
+          "width": 190, 
+          "legacy": {
+            "wide": "images/2016/12/30/sports/30edwards-obit/30edwards-obit-thumbWide.jpg", 
+            "wideheight": "126", 
+            "widewidth": "190"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "xlarge", 
+          "url": "images/2016/12/30/sports/30edwards-obit/30edwards-obit-articleLarge.jpg", 
+          "height": 399, 
+          "width": 600, 
+          "legacy": {
+            "xlargewidth": "600", 
+            "xlarge": "images/2016/12/30/sports/30edwards-obit/30edwards-obit-articleLarge.jpg", 
+            "xlargeheight": "399"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "thumbnail", 
+          "url": "images/2016/12/30/sports/30edwards-obit/30edwards-obit-thumbStandard.jpg", 
+          "height": 75, 
+          "width": 75, 
+          "legacy": {
+            "thumbnailheight": "75", 
+            "thumbnail": "images/2016/12/30/sports/30edwards-obit/30edwards-obit-thumbStandard.jpg", 
+            "thumbnailwidth": "75"
+          }, 
+          "type": "image"
+        }
+      ], 
+      "subsection_name": "Pro Football", 
+      "keywords": [
+        {
+          "value": "Edwards, LaVell", 
+          "is_major": "N", 
+          "rank": "1", 
+          "name": "persons"
+        }, 
+        {
+          "value": "Deaths (Obituaries)", 
+          "is_major": "N", 
+          "rank": "2", 
+          "name": "subject"
+        }, 
+        {
+          "value": "Football (College)", 
+          "is_major": "N", 
+          "rank": "3", 
+          "name": "subject"
+        }, 
+        {
+          "value": "Coaches and Managers", 
+          "is_major": "N", 
+          "rank": "4", 
+          "name": "subject"
+        }, 
+        {
+          "value": "Brigham Young University", 
+          "is_major": "N", 
+          "rank": "5", 
+          "name": "organizations"
+        }
+      ], 
+      "byline": {
+        "person": [
+          {
+            "organization": "", 
+            "role": "reported", 
+            "rank": 1, 
+            "firstname": "Richard", 
+            "lastname": "GOLDSTEIN"
+          }
+        ], 
+        "original": "By RICHARD GOLDSTEIN"
+      }, 
+      "document_type": "article", 
+      "pub_date": "2016-12-30T01:08:12+0000", 
+      "section_name": "Sports"
+    }, 
+    {
+      "type_of_material": "Obituary (Obit)", 
+      "blog": [], 
+      "news_desk": "Business", 
+      "lead_paragraph": "Mr. Mattson, a production executive who had once been a printer, helped transform the newspaper with innovative labor agreements and new technologies.", 
+      "headline": {
+        "main": "Walter E. Mattson, Former President of New York Times, Dies at 84", 
+        "print_headline": "Walter E. Mattson, Former Times President, Dies at 84"
+      }, 
+      "abstract": null, 
+      "print_page": "21", 
+      "word_count": "1303", 
+      "_id": "5866b42495d0e03926078648", 
+      "snippet": "Mr. Mattson, a production executive who had once been a printer, helped transform the newspaper with innovative labor agreements and new technologies....", 
+      "source": "The New York Times", 
+      "slideshow_credits": null, 
+      "web_url": "http://www.nytimes.com/2016/12/30/business/media/walter-mattson-dead-new-york-times-president.html", 
+      "multimedia": [
+        {
+          "subtype": "wide", 
+          "url": "images/2016/12/31/business/mattsonobit/mattsonobit-thumbWide-v2.jpg", 
+          "height": 126, 
+          "width": 190, 
+          "legacy": {
+            "wide": "images/2016/12/31/business/mattsonobit/mattsonobit-thumbWide-v2.jpg", 
+            "wideheight": "126", 
+            "widewidth": "190"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "xlarge", 
+          "url": "images/2016/12/31/business/mattsonobit/mattsonobit-articleLarge-v2.jpg", 
+          "height": 513, 
+          "width": 600, 
+          "legacy": {
+            "xlargewidth": "600", 
+            "xlarge": "images/2016/12/31/business/mattsonobit/mattsonobit-articleLarge-v2.jpg", 
+            "xlargeheight": "513"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "thumbnail", 
+          "url": "images/2016/12/31/business/mattsonobit/mattsonobit-thumbStandard.jpg", 
+          "height": 75, 
+          "width": 75, 
+          "legacy": {
+            "thumbnailheight": "75", 
+            "thumbnail": "images/2016/12/31/business/mattsonobit/mattsonobit-thumbStandard.jpg", 
+            "thumbnailwidth": "75"
+          }, 
+          "type": "image"
+        }
+      ], 
+      "subsection_name": "Media", 
+      "keywords": [
+        {
+          "value": "Mattson, Walter E (1932-2016)", 
+          "is_major": "N", 
+          "rank": "1", 
+          "name": "persons"
+        }, 
+        {
+          "value": "Deaths (Obituaries)", 
+          "is_major": "N", 
+          "rank": "2", 
+          "name": "subject"
+        }, 
+        {
+          "value": "New York Times", 
+          "is_major": "N", 
+          "rank": "3", 
+          "name": "organizations"
+        }, 
+        {
+          "value": "Newspapers", 
+          "is_major": "N", 
+          "rank": "4", 
+          "name": "subject"
+        }
+      ], 
+      "byline": {
+        "person": [
+          {
+            "organization": "", 
+            "role": "reported", 
+            "rank": 1, 
+            "firstname": "Robert"
+          }
+        ], 
+        "original": "By ROBERT D. McFADDEN"
+      }, 
+      "document_type": "article", 
+      "pub_date": "2016-12-30T19:17:14+0000", 
+      "section_name": "Business Day"
+    }, 
+    {
+      "type_of_material": "Obituary (Obit)", 
+      "blog": [], 
+      "news_desk": "Culture", 
+      "lead_paragraph": "A Hollywood studio artist, painter, printmaker, calligrapher and maker of fantastical kites, Mr. Wong was one of the most celebrated Chinese-American artists of the 20th century.", 
+      "headline": {
+        "main": "Tyrus Wong, \u2018Bambi\u2019 Artist Thwarted by Racial Bias, Dies at 106", 
+        "print_headline": "Tyrus Wong, \u2018Bambi\u2019 Artist and Disney Legend Thwarted by Racial Bias, Dies at 106"
+      }, 
+      "abstract": null, 
+      "print_page": null, 
+      "word_count": "2404", 
+      "_id": "586739fc95d0e03926078707", 
+      "snippet": "A Hollywood studio artist, painter, printmaker, calligrapher and maker of fantastical kites, Mr. Wong was one of the most celebrated Chinese-American artists of the 20th century....", 
+      "source": "The New York Times", 
+      "slideshow_credits": null, 
+      "web_url": "http://www.nytimes.com/2016/12/30/movies/tyrus-wong-dies-bambi-disney.html", 
+      "multimedia": [
+        {
+          "subtype": "wide", 
+          "url": "images/2017/01/01/obituaries/01wong/01wong-thumbWide-v2.jpg", 
+          "height": 126, 
+          "width": 190, 
+          "legacy": {
+            "wide": "images/2017/01/01/obituaries/01wong/01wong-thumbWide-v2.jpg", 
+            "wideheight": "126", 
+            "widewidth": "190"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "xlarge", 
+          "url": "images/2017/01/01/obituaries/01wong/01wong-articleLarge-v2.jpg", 
+          "height": 724, 
+          "width": 600, 
+          "legacy": {
+            "xlargewidth": "600", 
+            "xlarge": "images/2017/01/01/obituaries/01wong/01wong-articleLarge-v2.jpg", 
+            "xlargeheight": "724"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "thumbnail", 
+          "url": "images/2017/01/01/obituaries/01wong/01wong-thumbStandard-v2.jpg", 
+          "height": 75, 
+          "width": 75, 
+          "legacy": {
+            "thumbnailheight": "75", 
+            "thumbnail": "images/2017/01/01/obituaries/01wong/01wong-thumbStandard-v2.jpg", 
+            "thumbnailwidth": "75"
+          }, 
+          "type": "image"
+        }
+      ], 
+      "subsection_name": null, 
+      "keywords": [
+        {
+          "value": "Chinese-Americans", 
+          "is_major": "N", 
+          "rank": "1", 
+          "name": "subject"
+        }, 
+        {
+          "value": "Bambi (Movie)", 
+          "is_major": "N", 
+          "rank": "2", 
+          "name": "creative_works"
+        }, 
+        {
+          "value": "Walt Disney Company", 
+          "is_major": "N", 
+          "rank": "3", 
+          "name": "organizations"
+        }, 
+        {
+          "value": "Deaths (Obituaries)", 
+          "is_major": "N", 
+          "rank": "5", 
+          "name": "subject"
+        }
+      ], 
+      "byline": {
+        "person": [
+          {
+            "organization": "", 
+            "role": "reported", 
+            "rank": 1, 
+            "firstname": "Margalit", 
+            "lastname": "FOX"
+          }
+        ], 
+        "original": "By MARGALIT FOX"
+      }, 
+      "document_type": "article", 
+      "pub_date": "2016-12-31T04:54:13+0000", 
+      "section_name": "Movies"
+    }, 
+    {
+      "type_of_material": "Obituary (Obit)", 
+      "blog": [], 
+      "news_desk": "Culture", 
+      "lead_paragraph": "The actor appeared in many musicals and plays, and was a spokesman for White Owl cigars.", 
+      "headline": {
+        "main": "George S. Irving, Tony Winner and Voice of Heat Miser, Dies at 94", 
+        "print_headline": "George S. Irving, 94, Broadway Actor"
+      }, 
+      "abstract": null, 
+      "print_page": "18", 
+      "word_count": "836", 
+      "_id": "5865a6c495d0e03926078455", 
+      "snippet": "The actor appeared in many musicals and plays, and was a spokesman for White Owl cigars....", 
+      "source": "The New York Times", 
+      "slideshow_credits": null, 
+      "web_url": "http://www.nytimes.com/2016/12/29/obituaries/george-s-irving-tony-voice-of-heat-dies-94.html", 
+      "multimedia": [
+        {
+          "subtype": "wide", 
+          "url": "images/2016/12/30/arts/30irving-obit/29irving-obit-thumbWide.jpg", 
+          "height": 126, 
+          "width": 190, 
+          "legacy": {
+            "wide": "images/2016/12/30/arts/30irving-obit/29irving-obit-thumbWide.jpg", 
+            "wideheight": "126", 
+            "widewidth": "190"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "xlarge", 
+          "url": "images/2016/12/30/arts/30irving-obit/29irving-obit-articleLarge.jpg", 
+          "height": 762, 
+          "width": 600, 
+          "legacy": {
+            "xlargewidth": "600", 
+            "xlarge": "images/2016/12/30/arts/30irving-obit/29irving-obit-articleLarge.jpg", 
+            "xlargeheight": "762"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "thumbnail", 
+          "url": "images/2016/12/30/arts/30irving-obit/29irving-obit-thumbStandard.jpg", 
+          "height": 75, 
+          "width": 75, 
+          "legacy": {
+            "thumbnailheight": "75", 
+            "thumbnail": "images/2016/12/30/arts/30irving-obit/29irving-obit-thumbStandard.jpg", 
+            "thumbnailwidth": "75"
+          }, 
+          "type": "image"
+        }
+      ], 
+      "subsection_name": null, 
+      "keywords": [
+        {
+          "value": "Irving, George S", 
+          "is_major": "N", 
+          "rank": "1", 
+          "name": "persons"
+        }, 
+        {
+          "value": "Deaths (Obituaries)", 
+          "is_major": "N", 
+          "rank": "2", 
+          "name": "subject"
+        }, 
+        {
+          "value": "Actors and Actresses", 
+          "is_major": "N", 
+          "rank": "3", 
+          "name": "subject"
+        }, 
+        {
+          "value": "Theater", 
+          "is_major": "N", 
+          "rank": "4", 
+          "name": "subject"
+        }
+      ], 
+      "byline": {
+        "person": [
+          {
+            "organization": "", 
+            "role": "reported", 
+            "rank": 1, 
+            "firstname": "Richard", 
+            "lastname": "SANDOMIR"
+          }
+        ], 
+        "original": "By RICHARD SANDOMIR"
+      }, 
+      "document_type": "article", 
+      "pub_date": "2016-12-30T00:13:49+0000", 
+      "section_name": "Obituaries"
+    }, 
+    {
+      "type_of_material": "Correction", 
+      "blog": [], 
+      "news_desk": "Summary", 
+      "lead_paragraph": "Corrections appearing in print on Friday, December 30, 2016.", 
+      "headline": {
+        "main": "Corrections: December 30, 2016", 
+        "print_headline": "Corrections"
+      }, 
+      "abstract": null, 
+      "print_page": null, 
+      "word_count": "747", 
+      "_id": "5865ed2195d0e039260784b6", 
+      "snippet": "Corrections appearing in print on Friday, December 30, 2016....", 
+      "source": "The New York Times", 
+      "slideshow_credits": null, 
+      "web_url": "http://www.nytimes.com/2016/12/30/pageoneplus/corrections-december-30-2016.html", 
+      "multimedia": [], 
+      "subsection_name": null, 
+      "keywords": [], 
+      "byline": [], 
+      "document_type": "article", 
+      "pub_date": "2016-12-30T05:14:02+0000", 
+      "section_name": "Corrections"
+    }, 
+    {
+      "type_of_material": "Correction", 
+      "blog": [], 
+      "news_desk": "Summary", 
+      "lead_paragraph": "Corrections appearing in print on Saturday, December 31, 2016.", 
+      "headline": {
+        "main": "Corrections: December 31, 2016", 
+        "print_headline": "Corrections"
+      }, 
+      "abstract": null, 
+      "print_page": null, 
+      "word_count": "567", 
+      "_id": "586736ea95d0e03926078706", 
+      "snippet": "Corrections appearing in print on Saturday, December 31, 2016....", 
+      "source": "The New York Times", 
+      "slideshow_credits": null, 
+      "web_url": "http://www.nytimes.com/2016/12/30/pageoneplus/corrections-december-31-2016.html", 
+      "multimedia": [], 
+      "subsection_name": null, 
+      "keywords": [], 
+      "byline": [], 
+      "document_type": "article", 
+      "pub_date": "2016-12-31T04:40:59+0000", 
+      "section_name": "Corrections"
+    }
+  ], 
+  [
+    {
+      "type_of_material": "News", 
+      "blog": [], 
+      "news_desk": "Metropolitan", 
+      "lead_paragraph": "\u201cIn Pursuit of Privilege\u201d by Clifton Hood places late-19th-century society in broader historical perspective.", 
+      "headline": {
+        "main": "Tracing the Blue Blood of New York\u2019s Elite", 
+        "kicker": "Bookshelf", 
+        "print_headline": "Tracing the Blue Blood of New York\u2019s Elite", 
+        "content_kicker": "Bookshelf"
+      }, 
+      "abstract": null, 
+      "print_page": "3", 
+      "word_count": "562", 
+      "_id": "5866302c95d0e0392607850b", 
+      "snippet": "\u201cIn Pursuit of Privilege\u201d by Clifton Hood places late-19th-century society in broader historical perspective....", 
+      "source": "The New York Times", 
+      "slideshow_credits": null, 
+      "web_url": "http://www.nytimes.com/2016/12/30/nyregion/tracing-the-blue-blood-of-new-yorks-elite.html", 
+      "multimedia": [
+        {
+          "subtype": "wide", 
+          "url": "images/2017/01/01/nyregion/01BOOKSHELF/01BOOKSHELF-thumbWide.jpg", 
+          "height": 126, 
+          "width": 190, 
+          "legacy": {
+            "wide": "images/2017/01/01/nyregion/01BOOKSHELF/01BOOKSHELF-thumbWide.jpg", 
+            "wideheight": "126", 
+            "widewidth": "190"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "xlarge", 
+          "url": "images/2017/01/01/nyregion/01BOOKSHELF/01BOOKSHELF-articleLarge.jpg", 
+          "height": 906, 
+          "width": 600, 
+          "legacy": {
+            "xlargewidth": "600", 
+            "xlarge": "images/2017/01/01/nyregion/01BOOKSHELF/01BOOKSHELF-articleLarge.jpg", 
+            "xlargeheight": "906"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "thumbnail", 
+          "url": "images/2017/01/01/nyregion/01BOOKSHELF/01BOOKSHELF-thumbStandard.jpg", 
+          "height": 75, 
+          "width": 75, 
+          "legacy": {
+            "thumbnailheight": "75", 
+            "thumbnail": "images/2017/01/01/nyregion/01BOOKSHELF/01BOOKSHELF-thumbStandard.jpg", 
+            "thumbnailwidth": "75"
+          }, 
+          "type": "image"
+        }
+      ], 
+      "subsection_name": null, 
+      "keywords": [
+        {
+          "value": "Books and Literature", 
+          "is_major": "N", 
+          "rank": "1", 
+          "name": "subject"
+        }, 
+        {
+          "value": "Social Register", 
+          "is_major": "N", 
+          "rank": "2", 
+          "name": "organizations"
+        }, 
+        {
+          "value": "Manhattan (NYC)", 
+          "is_major": "N", 
+          "rank": "3", 
+          "name": "glocations"
+        }, 
+        {
+          "value": "In Pursuit of Privilege: A History of New York City's Upper Class and the Making of a Metropolis (Book)", 
+          "is_major": "N", 
+          "rank": "4", 
+          "name": "creative_works"
+        }, 
+        {
+          "value": "Hood, Clifton", 
+          "is_major": "N", 
+          "rank": "5", 
+          "name": "persons"
+        }
+      ], 
+      "byline": {
+        "person": [
+          {
+            "organization": "", 
+            "role": "reported", 
+            "rank": 1, 
+            "firstname": "Sam", 
+            "lastname": "ROBERTS"
+          }
+        ], 
+        "original": "By SAM ROBERTS"
+      }, 
+      "document_type": "article", 
+      "pub_date": "2016-12-30T10:00:04+0000", 
+      "section_name": "N.Y. / Region"
+    }
+  ]
+]
