@@ -25,6 +25,8 @@ if key_matches:
 else:
     raise Exception("No useable key")
 
+payload = {'api_key': api_key, 'q':'obituary'}
+
 for year in years:
     # Set initial status
     status = 'OK'

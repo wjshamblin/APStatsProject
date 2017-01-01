@@ -38,7 +38,7 @@
         "main": "Cyril D. Tyson, Poverty Fighter, Dies at 89"
       }, 
       "abstract": null, 
-      "print_page": null, 
+      "print_page": "18", 
       "word_count": "864", 
       "_id": "5866f4d895d0e039260786bc", 
       "snippet": "Mr. Tyson led antipoverty programs from inside and outside government in New York City and Newark during the racially tense 1960s....", 
@@ -329,7 +329,7 @@
       }, 
       "abstract": null, 
       "print_page": "20", 
-      "word_count": "2137", 
+      "word_count": "2138", 
       "_id": "5866caa695d0e0392607866f", 
       "snippet": "The deaths of David Bowie, Prince and Leonard Cohen drew considerable attention in a year that also claimed Muhammad Ali and Fidel Castro....", 
       "source": "The New York Times", 
@@ -617,7 +617,7 @@
         "print_headline": "Arthur H. Cash, Writer of British Biographies, Dies at 94"
       }, 
       "abstract": null, 
-      "print_page": null, 
+      "print_page": "18", 
       "word_count": "846", 
       "_id": "58670eae95d0e039260786d9", 
       "snippet": "Mr. Cash wrote about the English novelist Laurence Sterne, and his biography of the 18th-century English radical John Wilkes was a Pulitzer finalist....", 
@@ -1178,116 +1178,6 @@
     {
       "type_of_material": "Obituary (Obit)", 
       "blog": [], 
-      "news_desk": "National", 
-      "lead_paragraph": "Mr. Sellers was a leading figure in NASA\u2019s scientific research programs, flying to the International Space Station on the space shuttle Atlantis in 2002 and 2010, and on Discovery in 2006.", 
-      "headline": {
-        "main": "Piers J. Sellers, Climate Scientist and Space Station Astronaut, Dies at 61", 
-        "print_headline": "Piers J. Sellers, 61, Astronaut Who Studied Climate Change"
-      }, 
-      "abstract": null, 
-      "print_page": "28", 
-      "word_count": "618", 
-      "_id": "585e880d95d0e03926077aee", 
-      "snippet": "Mr. Sellers was a leading figure in NASA\u2019s scientific research programs, flying to the International Space Station on the space shuttle Atlantis in 2002 and 2010, and on Discovery in 2006....", 
-      "source": "The New York Times", 
-      "slideshow_credits": null, 
-      "web_url": "http://www.nytimes.com/2016/12/24/us/piers-j-sellers-climate-scientist-and-astronaut-dies-at-61.html", 
-      "multimedia": [
-        {
-          "subtype": "wide", 
-          "url": "images/2016/12/25/us/25SELLERS-obit/25SELLERS-obit-thumbWide.jpg", 
-          "height": 126, 
-          "width": 190, 
-          "legacy": {
-            "wide": "images/2016/12/25/us/25SELLERS-obit/25SELLERS-obit-thumbWide.jpg", 
-            "wideheight": "126", 
-            "widewidth": "190"
-          }, 
-          "type": "image"
-        }, 
-        {
-          "subtype": "xlarge", 
-          "url": "images/2016/12/25/us/25SELLERS-obit/25SELLERS-obit-articleLarge.jpg", 
-          "height": 400, 
-          "width": 600, 
-          "legacy": {
-            "xlargewidth": "600", 
-            "xlarge": "images/2016/12/25/us/25SELLERS-obit/25SELLERS-obit-articleLarge.jpg", 
-            "xlargeheight": "400"
-          }, 
-          "type": "image"
-        }, 
-        {
-          "subtype": "thumbnail", 
-          "url": "images/2016/12/25/us/25SELLERS-obit/25SELLERS-obit-thumbStandard.jpg", 
-          "height": 75, 
-          "width": 75, 
-          "legacy": {
-            "thumbnailheight": "75", 
-            "thumbnail": "images/2016/12/25/us/25SELLERS-obit/25SELLERS-obit-thumbStandard.jpg", 
-            "thumbnailwidth": "75"
-          }, 
-          "type": "image"
-        }
-      ], 
-      "subsection_name": null, 
-      "keywords": [
-        {
-          "value": "Sellers, Piers J (1955-2016)", 
-          "is_major": "N", 
-          "rank": "1", 
-          "name": "persons"
-        }, 
-        {
-          "value": "Deaths (Obituaries)", 
-          "is_major": "N", 
-          "rank": "2", 
-          "name": "subject"
-        }, 
-        {
-          "value": "National Aeronautics and Space Administration", 
-          "is_major": "N", 
-          "rank": "3", 
-          "name": "organizations"
-        }, 
-        {
-          "value": "Space and Astronomy", 
-          "is_major": "N", 
-          "rank": "4", 
-          "name": "subject"
-        }, 
-        {
-          "value": "Global Warming", 
-          "is_major": "N", 
-          "rank": "5", 
-          "name": "subject"
-        }, 
-        {
-          "value": "Goddard Space Flight Center", 
-          "is_major": "N", 
-          "rank": "6", 
-          "name": "organizations"
-        }
-      ], 
-      "byline": {
-        "person": [
-          {
-            "organization": "", 
-            "role": "reported", 
-            "rank": 1, 
-            "firstname": "Richard", 
-            "lastname": "GOLDSTEIN"
-          }
-        ], 
-        "original": "By RICHARD GOLDSTEIN"
-      }, 
-      "document_type": "article", 
-      "pub_date": "2016-12-24T14:36:57+0000", 
-      "section_name": "U.S."
-    }, 
-    {
-      "type_of_material": "Obituary (Obit)", 
-      "blog": [], 
       "news_desk": "Business", 
       "lead_paragraph": "Mr. Mattson, a production executive who had once been a printer, helped transform the newspaper with innovative labor agreements and new technologies.", 
       "headline": {
@@ -1489,15 +1379,125 @@
     {
       "type_of_material": "Obituary (Obit)", 
       "blog": [], 
+      "news_desk": "National", 
+      "lead_paragraph": "Mr. Sellers was a leading figure in NASA\u2019s scientific research programs, flying to the International Space Station on the space shuttle Atlantis in 2002 and 2010, and on Discovery in 2006.", 
+      "headline": {
+        "main": "Piers J. Sellers, Climate Scientist and Space Station Astronaut, Dies at 61", 
+        "print_headline": "Piers J. Sellers, 61, Astronaut Who Studied Climate Change"
+      }, 
+      "abstract": null, 
+      "print_page": "28", 
+      "word_count": "618", 
+      "_id": "585e880d95d0e03926077aee", 
+      "snippet": "Mr. Sellers was a leading figure in NASA\u2019s scientific research programs, flying to the International Space Station on the space shuttle Atlantis in 2002 and 2010, and on Discovery in 2006....", 
+      "source": "The New York Times", 
+      "slideshow_credits": null, 
+      "web_url": "http://www.nytimes.com/2016/12/24/us/piers-j-sellers-climate-scientist-and-astronaut-dies-at-61.html", 
+      "multimedia": [
+        {
+          "subtype": "wide", 
+          "url": "images/2016/12/25/us/25SELLERS-obit/25SELLERS-obit-thumbWide.jpg", 
+          "height": 126, 
+          "width": 190, 
+          "legacy": {
+            "wide": "images/2016/12/25/us/25SELLERS-obit/25SELLERS-obit-thumbWide.jpg", 
+            "wideheight": "126", 
+            "widewidth": "190"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "xlarge", 
+          "url": "images/2016/12/25/us/25SELLERS-obit/25SELLERS-obit-articleLarge.jpg", 
+          "height": 400, 
+          "width": 600, 
+          "legacy": {
+            "xlargewidth": "600", 
+            "xlarge": "images/2016/12/25/us/25SELLERS-obit/25SELLERS-obit-articleLarge.jpg", 
+            "xlargeheight": "400"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "thumbnail", 
+          "url": "images/2016/12/25/us/25SELLERS-obit/25SELLERS-obit-thumbStandard.jpg", 
+          "height": 75, 
+          "width": 75, 
+          "legacy": {
+            "thumbnailheight": "75", 
+            "thumbnail": "images/2016/12/25/us/25SELLERS-obit/25SELLERS-obit-thumbStandard.jpg", 
+            "thumbnailwidth": "75"
+          }, 
+          "type": "image"
+        }
+      ], 
+      "subsection_name": null, 
+      "keywords": [
+        {
+          "value": "Sellers, Piers J (1955-2016)", 
+          "is_major": "N", 
+          "rank": "1", 
+          "name": "persons"
+        }, 
+        {
+          "value": "Deaths (Obituaries)", 
+          "is_major": "N", 
+          "rank": "2", 
+          "name": "subject"
+        }, 
+        {
+          "value": "National Aeronautics and Space Administration", 
+          "is_major": "N", 
+          "rank": "3", 
+          "name": "organizations"
+        }, 
+        {
+          "value": "Space and Astronomy", 
+          "is_major": "N", 
+          "rank": "4", 
+          "name": "subject"
+        }, 
+        {
+          "value": "Global Warming", 
+          "is_major": "N", 
+          "rank": "5", 
+          "name": "subject"
+        }, 
+        {
+          "value": "Goddard Space Flight Center", 
+          "is_major": "N", 
+          "rank": "6", 
+          "name": "organizations"
+        }
+      ], 
+      "byline": {
+        "person": [
+          {
+            "organization": "", 
+            "role": "reported", 
+            "rank": 1, 
+            "firstname": "Richard", 
+            "lastname": "GOLDSTEIN"
+          }
+        ], 
+        "original": "By RICHARD GOLDSTEIN"
+      }, 
+      "document_type": "article", 
+      "pub_date": "2016-12-24T14:36:57+0000", 
+      "section_name": "U.S."
+    }, 
+    {
+      "type_of_material": "Obituary (Obit)", 
+      "blog": [], 
       "news_desk": "Culture", 
       "lead_paragraph": "A Hollywood studio artist, painter, printmaker, calligrapher and maker of fantastical kites, Mr. Wong was one of the most celebrated Chinese-American artists of the 20th century.", 
       "headline": {
         "main": "Tyrus Wong, \u2018Bambi\u2019 Artist Thwarted by Racial Bias, Dies at 106", 
-        "print_headline": "Tyrus Wong, \u2018Bambi\u2019 Artist and Disney Legend Thwarted by Racial Bias, Dies at 106"
+        "print_headline": "Tyrus Wong, \u2018Bambi\u2019 Artist Who Endured Racial Bias, Is Dead at 106"
       }, 
       "abstract": null, 
-      "print_page": null, 
-      "word_count": "2404", 
+      "print_page": "1", 
+      "word_count": "2397", 
       "_id": "586739fc95d0e03926078707", 
       "snippet": "A Hollywood studio artist, painter, printmaker, calligrapher and maker of fantastical kites, Mr. Wong was one of the most celebrated Chinese-American artists of the 20th century....", 
       "source": "The New York Times", 
@@ -1544,28 +1544,40 @@
       "subsection_name": null, 
       "keywords": [
         {
-          "value": "Chinese-Americans", 
+          "value": "Wong, Tyrus (1910-2016)", 
           "is_major": "N", 
           "rank": "1", 
+          "name": "persons"
+        }, 
+        {
+          "value": "Deaths (Obituaries)", 
+          "is_major": "N", 
+          "rank": "2", 
+          "name": "subject"
+        }, 
+        {
+          "value": "Art", 
+          "is_major": "N", 
+          "rank": "3", 
+          "name": "subject"
+        }, 
+        {
+          "value": "Chinese-Americans", 
+          "is_major": "N", 
+          "rank": "4", 
           "name": "subject"
         }, 
         {
           "value": "Bambi (Movie)", 
           "is_major": "N", 
-          "rank": "2", 
+          "rank": "5", 
           "name": "creative_works"
         }, 
         {
           "value": "Walt Disney Company", 
           "is_major": "N", 
-          "rank": "3", 
+          "rank": "6", 
           "name": "organizations"
-        }, 
-        {
-          "value": "Deaths (Obituaries)", 
-          "is_major": "N", 
-          "rank": "5", 
-          "name": "subject"
         }
       ], 
       "byline": {
@@ -1783,216 +1795,6 @@
     {
       "type_of_material": "Obituary (Obit)", 
       "blog": [], 
-      "news_desk": "Sports", 
-      "lead_paragraph": "He was known as Yifter the Shifter for the sudden bursts of speed that propelled him to wins in the 5,000- and 10,000-meter races at the 1980 Games in Moscow.", 
-      "headline": {
-        "main": "Miruts Yifter, Ethiopian Who Ran to Two Olympic Golds, Dies at 72", 
-        "print_headline": "Miruts Yifter, 72; Ran for Two Olympic Golds"
-      }, 
-      "abstract": "Miruts Yifter, Ethiopian runner and two-time Olympic gold medalist whose explosive bursts of speed earned him nickname Yifter the Shifter, dies at age 72.", 
-      "print_page": "18", 
-      "word_count": "490", 
-      "_id": "5860107995d0e03926077bfb", 
-      "snippet": "He was known as Yifter the Shifter for the sudden bursts of speed that propelled him to wins in the 5,000- and 10,000-meter races at the 1980 Games in Moscow....", 
-      "source": "The New York Times", 
-      "slideshow_credits": null, 
-      "web_url": "http://www.nytimes.com/2016/12/25/obituaries/miruts-yifter-ethiopian-runner-and-olympic-gold-medalist-dies-at-72.html", 
-      "multimedia": [
-        {
-          "subtype": "wide", 
-          "url": "images/2016/12/28/obituaries/00xp-yifter/00xp-yifter-thumbWide-v2.jpg", 
-          "height": 126, 
-          "width": 190, 
-          "legacy": {
-            "wide": "images/2016/12/28/obituaries/00xp-yifter/00xp-yifter-thumbWide-v2.jpg", 
-            "wideheight": "126", 
-            "widewidth": "190"
-          }, 
-          "type": "image"
-        }, 
-        {
-          "subtype": "xlarge", 
-          "url": "images/2016/12/28/obituaries/00xp-yifter/00xp-yifter-articleLarge-v2.jpg", 
-          "height": 400, 
-          "width": 600, 
-          "legacy": {
-            "xlargewidth": "600", 
-            "xlarge": "images/2016/12/28/obituaries/00xp-yifter/00xp-yifter-articleLarge-v2.jpg", 
-            "xlargeheight": "400"
-          }, 
-          "type": "image"
-        }, 
-        {
-          "subtype": "thumbnail", 
-          "url": "images/2016/12/28/obituaries/00xp-yifter/00xp-yifter-thumbStandard-v2.jpg", 
-          "height": 75, 
-          "width": 75, 
-          "legacy": {
-            "thumbnailheight": "75", 
-            "thumbnail": "images/2016/12/28/obituaries/00xp-yifter/00xp-yifter-thumbStandard-v2.jpg", 
-            "thumbnailwidth": "75"
-          }, 
-          "type": "image"
-        }
-      ], 
-      "subsection_name": null, 
-      "keywords": [
-        {
-          "value": "Deaths (Obituaries)", 
-          "is_major": "Y", 
-          "rank": "1", 
-          "name": "subject"
-        }, 
-        {
-          "value": "Olympic Games (1980)", 
-          "is_major": "N", 
-          "rank": "2", 
-          "name": "subject"
-        }, 
-        {
-          "value": "Ethiopia", 
-          "is_major": "N", 
-          "rank": "3", 
-          "name": "glocations"
-        }, 
-        {
-          "value": "Running", 
-          "is_major": "N", 
-          "rank": "4", 
-          "name": "subject"
-        }, 
-        {
-          "value": "Yifter, Miruts", 
-          "is_major": "Y", 
-          "rank": "5", 
-          "name": "persons"
-        }
-      ], 
-      "byline": {
-        "person": [
-          {
-            "organization": "", 
-            "role": "reported", 
-            "rank": 1, 
-            "firstname": "Christopher", 
-            "lastname": "MELE"
-          }
-        ], 
-        "original": "By CHRISTOPHER MELE"
-      }, 
-      "document_type": "article", 
-      "pub_date": "2016-12-25T18:31:17+0000", 
-      "section_name": "Sports"
-    }
-  ], 
-  [
-    {
-      "type_of_material": "Obituary (Obit)", 
-      "blog": [], 
-      "news_desk": "Sports", 
-      "lead_paragraph": "He was known as Yifter the Shifter for the sudden bursts of speed that propelled him to wins in the 5,000- and 10,000-meter races at the 1980 Games in Moscow.", 
-      "headline": {
-        "main": "Miruts Yifter, Ethiopian Who Ran to Two Olympic Golds, Dies at 72", 
-        "print_headline": "Miruts Yifter, 72; Ran for Two Olympic Golds"
-      }, 
-      "abstract": "Miruts Yifter, Ethiopian runner and two-time Olympic gold medalist whose explosive bursts of speed earned him nickname Yifter the Shifter, dies at age 72.", 
-      "print_page": "18", 
-      "word_count": "490", 
-      "_id": "5860107995d0e03926077bfb", 
-      "snippet": "He was known as Yifter the Shifter for the sudden bursts of speed that propelled him to wins in the 5,000- and 10,000-meter races at the 1980 Games in Moscow....", 
-      "source": "The New York Times", 
-      "slideshow_credits": null, 
-      "web_url": "http://www.nytimes.com/2016/12/25/obituaries/miruts-yifter-ethiopian-runner-and-olympic-gold-medalist-dies-at-72.html", 
-      "multimedia": [
-        {
-          "subtype": "wide", 
-          "url": "images/2016/12/28/obituaries/00xp-yifter/00xp-yifter-thumbWide-v2.jpg", 
-          "height": 126, 
-          "width": 190, 
-          "legacy": {
-            "wide": "images/2016/12/28/obituaries/00xp-yifter/00xp-yifter-thumbWide-v2.jpg", 
-            "wideheight": "126", 
-            "widewidth": "190"
-          }, 
-          "type": "image"
-        }, 
-        {
-          "subtype": "xlarge", 
-          "url": "images/2016/12/28/obituaries/00xp-yifter/00xp-yifter-articleLarge-v2.jpg", 
-          "height": 400, 
-          "width": 600, 
-          "legacy": {
-            "xlargewidth": "600", 
-            "xlarge": "images/2016/12/28/obituaries/00xp-yifter/00xp-yifter-articleLarge-v2.jpg", 
-            "xlargeheight": "400"
-          }, 
-          "type": "image"
-        }, 
-        {
-          "subtype": "thumbnail", 
-          "url": "images/2016/12/28/obituaries/00xp-yifter/00xp-yifter-thumbStandard-v2.jpg", 
-          "height": 75, 
-          "width": 75, 
-          "legacy": {
-            "thumbnailheight": "75", 
-            "thumbnail": "images/2016/12/28/obituaries/00xp-yifter/00xp-yifter-thumbStandard-v2.jpg", 
-            "thumbnailwidth": "75"
-          }, 
-          "type": "image"
-        }
-      ], 
-      "subsection_name": null, 
-      "keywords": [
-        {
-          "value": "Deaths (Obituaries)", 
-          "is_major": "Y", 
-          "rank": "1", 
-          "name": "subject"
-        }, 
-        {
-          "value": "Olympic Games (1980)", 
-          "is_major": "N", 
-          "rank": "2", 
-          "name": "subject"
-        }, 
-        {
-          "value": "Ethiopia", 
-          "is_major": "N", 
-          "rank": "3", 
-          "name": "glocations"
-        }, 
-        {
-          "value": "Running", 
-          "is_major": "N", 
-          "rank": "4", 
-          "name": "subject"
-        }, 
-        {
-          "value": "Yifter, Miruts", 
-          "is_major": "Y", 
-          "rank": "5", 
-          "name": "persons"
-        }
-      ], 
-      "byline": {
-        "person": [
-          {
-            "organization": "", 
-            "role": "reported", 
-            "rank": 1, 
-            "firstname": "Christopher", 
-            "lastname": "MELE"
-          }
-        ], 
-        "original": "By CHRISTOPHER MELE"
-      }, 
-      "document_type": "article", 
-      "pub_date": "2016-12-25T18:31:17+0000", 
-      "section_name": "Sports"
-    }, 
-    {
-      "type_of_material": "Obituary (Obit)", 
-      "blog": [], 
       "news_desk": "National", 
       "lead_paragraph": "Dr. Goldwasser helped build one of the world\u2019s most powerful particle accelerators and make Fermilab a leader in scientific advancements and collaborations.", 
       "headline": {
@@ -2087,32 +1889,34 @@
       "document_type": "article", 
       "pub_date": "2016-12-29T02:09:20+0000", 
       "section_name": "Science"
-    }, 
+    }
+  ], 
+  [
     {
       "type_of_material": "Obituary (Obit)", 
       "blog": [], 
       "news_desk": "Foreign", 
-      "lead_paragraph": "Ms. Vulovic, who wasn\u2019t scheduled to be on the flight from Copenhagen to Belgrade in 1972, was the only one of 28 people to survive after plummeting thousands of feet onto a snowy hill.", 
+      "lead_paragraph": "Mr. Risom, a Danish immigrant, fused Scandinavian and rustic American influences in a celebrated armless chair that\u2019s still selling 74 years later, and other modernist pieces for Knoll Studio.", 
       "headline": {
-        "main": "Vesna Vulovic, Flight Attendant Who Survived Jetliner Blast, Dies at 66", 
-        "print_headline": "Vesna Vulovic, 66, Survivor  of Midair Jetliner Explosion"
+        "main": "Jens Risom, Modernist Designer Whose Furniture Still Has Legs, Dies at 100", 
+        "print_headline": "Jens Risom, 100, Modernist Designer Whose Furniture Still Has Legs, Is Dead"
       }, 
-      "abstract": null, 
-      "print_page": "18", 
-      "word_count": "845", 
-      "_id": "586467f195d0e039260781dd", 
-      "snippet": "Ms. Vulovic, who wasn\u2019t scheduled to be on the flight from Copenhagen to Belgrade in 1972, was the only one of 28 people to survive after plummeting thousands of feet onto a snowy hill....", 
+      "abstract": "Jens Risom, Danish furniture designer whose work for Knoll Studio introduced midcentury modern style to United States, dies at age 100.", 
+      "print_page": "12", 
+      "word_count": "911", 
+      "_id": "585c851695d0e039260777a5", 
+      "snippet": "Mr. Risom, a Danish immigrant, fused Scandinavian and rustic American influences in a celebrated armless chair that\u2019s still selling 74 years later, and other modernist pieces for Knoll Studio....", 
       "source": "The New York Times", 
       "slideshow_credits": null, 
-      "web_url": "http://www.nytimes.com/2016/12/28/world/europe/vesna-vulovic-died-flight-attendant-in-plunge.html", 
+      "web_url": "http://www.nytimes.com/2016/12/22/world/europe/jens-risom-dead.html", 
       "multimedia": [
         {
           "subtype": "wide", 
-          "url": "images/2016/12/29/world/29vulovic-obit-1/29vulovic-obit-1-thumbWide.jpg", 
+          "url": "images/2016/12/23/world/23risom-obit-1/23risom-obit-1-thumbWide.jpg", 
           "height": 126, 
           "width": 190, 
           "legacy": {
-            "wide": "images/2016/12/29/world/29vulovic-obit-1/29vulovic-obit-1-thumbWide.jpg", 
+            "wide": "images/2016/12/23/world/23risom-obit-1/23risom-obit-1-thumbWide.jpg", 
             "wideheight": "126", 
             "widewidth": "190"
           }, 
@@ -2120,24 +1924,24 @@
         }, 
         {
           "subtype": "xlarge", 
-          "url": "images/2016/12/29/world/29vulovic-obit-1/29vulovic-obit-1-articleLarge.jpg", 
-          "height": 400, 
+          "url": "images/2016/12/23/world/23risom-obit-1/23risom-obit-1-articleLarge.jpg", 
+          "height": 776, 
           "width": 600, 
           "legacy": {
             "xlargewidth": "600", 
-            "xlarge": "images/2016/12/29/world/29vulovic-obit-1/29vulovic-obit-1-articleLarge.jpg", 
-            "xlargeheight": "400"
+            "xlarge": "images/2016/12/23/world/23risom-obit-1/23risom-obit-1-articleLarge.jpg", 
+            "xlargeheight": "776"
           }, 
           "type": "image"
         }, 
         {
           "subtype": "thumbnail", 
-          "url": "images/2016/12/29/world/29vulovic-obit-1/29vulovic-obit-1-thumbStandard.jpg", 
+          "url": "images/2016/12/23/world/23risom-obit-1/23risom-obit-1-thumbStandard.jpg", 
           "height": 75, 
           "width": 75, 
           "legacy": {
             "thumbnailheight": "75", 
-            "thumbnail": "images/2016/12/29/world/29vulovic-obit-1/29vulovic-obit-1-thumbStandard.jpg", 
+            "thumbnail": "images/2016/12/23/world/23risom-obit-1/23risom-obit-1-thumbStandard.jpg", 
             "thumbnailwidth": "75"
           }, 
           "type": "image"
@@ -2146,84 +1950,77 @@
       "subsection_name": "Europe", 
       "keywords": [
         {
-          "value": "Deaths (Obituaries)", 
+          "value": "Risom, Jens", 
           "is_major": "Y", 
           "rank": "1", 
-          "name": "subject"
+          "name": "persons"
         }, 
         {
-          "value": "Aviation Accidents, Safety and Disasters", 
+          "value": "Furniture", 
           "is_major": "N", 
           "rank": "2", 
           "name": "subject"
         }, 
         {
-          "value": "Flight Attendants", 
+          "value": "Design Within Reach", 
           "is_major": "N", 
           "rank": "3", 
-          "name": "subject"
+          "name": "organizations"
         }, 
         {
-          "value": "Yugoslav Airlines", 
+          "value": "Knoll Inc", 
           "is_major": "N", 
           "rank": "4", 
           "name": "organizations"
         }, 
         {
-          "value": "Serbia", 
-          "is_major": "N", 
+          "value": "Deaths (Obituaries)", 
+          "is_major": "Y", 
           "rank": "5", 
-          "name": "glocations"
-        }, 
-        {
-          "value": "Vulovic, Vesna (1950-2016)", 
-          "is_major": "N", 
-          "rank": "6", 
-          "name": "persons"
+          "name": "subject"
         }
       ], 
       "byline": {
-        "contributor": "Matthew Brunwasser contributed reporting from Tirana, Albania.", 
         "person": [
           {
             "organization": "", 
             "role": "reported", 
             "rank": 1, 
-            "firstname": "Richard", 
-            "lastname": "SANDOMIR"
+            "firstname": "Jacob", 
+            "lastname": "BERNSTEIN"
           }
         ], 
-        "original": "By RICHARD SANDOMIR"
+        "original": "By JACOB BERNSTEIN"
       }, 
       "document_type": "article", 
-      "pub_date": "2016-12-29T01:33:28+0000", 
+      "pub_date": "2016-12-23T01:59:43+0000", 
       "section_name": "World"
     }, 
     {
       "type_of_material": "Obituary (Obit)", 
       "blog": [], 
       "news_desk": "Culture", 
-      "lead_paragraph": "Mr. Adams\u2019s theme-rich rabbit tale from the early 1970s made him one of the world\u2019s best-selling writers.", 
+      "lead_paragraph": "Ms. Marjane made the ballad \u201cAlone Tonight\u201d a signature song of the period.", 
       "headline": {
-        "main": "Richard Adams, Whose Novel \u2018Watership Down\u2019 Became a Phenomenon, Dies at 96", 
-        "print_headline": "Richard Adams, 96, Dies; \u2018Watership Down\u2019 Author"
+        "main": "L\u00e9o Marjane, a Music Hall Star in Occupied France, Dies at 104", 
+        "print_headline": "L\u00e9o Marjane, 104, Songbird of Occupied France"
       }, 
-      "abstract": "Richard Adams, British novelist best known for his international best-selling novel Watership Down, dies at age 96.", 
-      "print_page": "16", 
-      "word_count": "1255", 
-      "_id": "5862b64d95d0e03926077ee0", 
-      "snippet": "Mr. Adams\u2019s theme-rich rabbit tale from the early 1970s made him one of the world\u2019s best-selling writers....", 
+      "abstract": null, 
+      "print_page": "28", 
+      "word_count": "588", 
+      "_id": "586189b595d0e03926077d58", 
+      "snippet": "Ms. Marjane made the ballad \u201cAlone Tonight\u201d a signature song of the period....", 
       "source": "The New York Times", 
       "slideshow_credits": null, 
-      "web_url": "http://www.nytimes.com/2016/12/27/arts/richard-adams-author-of-watership-down-dies-at-96.html", 
+      "web_url": "http://www.nytimes.com/2016/12/26/arts/music/leo-marjane-dead-french-singer.html", 
       "multimedia": [
         {
           "subtype": "wide", 
-          "url": "images/2016/12/28/arts/28adams-obit-1-1482880630257/28adams-obit-1-1482880630257-thumbWide.jpg", 
+          "url": "images/2016/12/25/arts/25marjane-obit/25marjane-obit-thumbWide.jpg", 
           "height": 126, 
           "width": 190, 
           "legacy": {
-            "wide": "images/2016/12/28/arts/28adams-obit-1-1482880630257/28adams-obit-1-1482880630257-thumbWide.jpg", 
+            "wide": "images/2016/12/25/arts/25marjane-obit/25marjane-obit-thumbWide.jpg", 
             "wideheight": "126", 
             "widewidth": "190"
           }, 
@@ -2231,456 +2028,71 @@
         }, 
         {
           "subtype": "xlarge", 
-          "url": "images/2016/12/28/arts/28adams-obit-1-1482880630257/28adams-obit-1-1482880630257-articleLarge.jpg", 
-          "height": 816, 
+          "url": "images/2016/12/25/arts/25marjane-obit/25marjane-obit-articleLarge.jpg", 
+          "height": 832, 
           "width": 600, 
           "legacy": {
             "xlargewidth": "600", 
-            "xlarge": "images/2016/12/28/arts/28adams-obit-1-1482880630257/28adams-obit-1-1482880630257-articleLarge.jpg", 
-            "xlargeheight": "816"
+            "xlarge": "images/2016/12/25/arts/25marjane-obit/25marjane-obit-articleLarge.jpg", 
+            "xlargeheight": "832"
           }, 
           "type": "image"
         }, 
         {
           "subtype": "thumbnail", 
-          "url": "images/2016/12/28/arts/28adams-obit-1-1482880630257/28adams-obit-1-1482880630257-thumbStandard.jpg", 
+          "url": "images/2016/12/25/arts/25marjane-obit/25marjane-obit-thumbStandard.jpg", 
           "height": 75, 
           "width": 75, 
           "legacy": {
             "thumbnailheight": "75", 
-            "thumbnail": "images/2016/12/28/arts/28adams-obit-1-1482880630257/28adams-obit-1-1482880630257-thumbStandard.jpg", 
+            "thumbnail": "images/2016/12/25/arts/25marjane-obit/25marjane-obit-thumbStandard.jpg", 
             "thumbnailwidth": "75"
           }, 
           "type": "image"
         }
       ], 
-      "subsection_name": null, 
+      "subsection_name": "Music", 
       "keywords": [
         {
-          "value": "Adams, Richard (1920-2016)", 
+          "value": "Marjane, Leo (1912-2016)", 
           "is_major": "N", 
           "rank": "1", 
           "name": "persons"
         }, 
         {
           "value": "Deaths (Obituaries)", 
-          "is_major": "Y", 
+          "is_major": "N", 
           "rank": "2", 
           "name": "subject"
         }, 
         {
-          "value": "Writing and Writers", 
+          "value": "Music", 
           "is_major": "N", 
           "rank": "3", 
           "name": "subject"
         }, 
         {
-          "value": "Books and Literature", 
+          "value": "Alone Tonight (Song)", 
           "is_major": "N", 
           "rank": "4", 
-          "name": "subject"
-        }, 
-        {
-          "value": "Watership Down (Book)", 
-          "is_major": "N", 
-          "rank": "5", 
           "name": "creative_works"
         }
       ], 
       "byline": {
-        "contributor": "", 
         "person": [
           {
             "organization": "", 
             "role": "reported", 
             "rank": 1, 
-            "firstname": "Robert"
+            "firstname": "William", 
+            "lastname": "GRIMES"
           }
         ], 
-        "original": "By ROBERT D. McFADDEN"
+        "original": "By WILLIAM GRIMES"
       }, 
       "document_type": "article", 
-      "pub_date": "2016-12-27T18:43:20+0000", 
+      "pub_date": "2016-12-26T21:20:50+0000", 
       "section_name": "Arts"
-    }, 
-    {
-      "type_of_material": "Obituary (Obit)", 
-      "blog": [], 
-      "news_desk": "Culture", 
-      "lead_paragraph": "Ms. Fisher channeled her struggles with depression and substance abuse into fiercely comic works, including the novel \u201cPostcards From the Edge.\u201d", 
-      "headline": {
-        "main": "Carrie Fisher, Child of Hollywood and \u2018Star Wars\u2019 Royalty, Dies at 60", 
-        "print_headline": "Carrie Fisher, a Steely Film Damsel, Dies at 60"
-      }, 
-      "abstract": null, 
-      "print_page": "1", 
-      "word_count": "1387", 
-      "_id": "5862aef595d0e03926077ed0", 
-      "snippet": "Ms. Fisher channeled her struggles with depression and substance abuse into fiercely comic works, including the novel \u201cPostcards From the Edge.\u201d...", 
-      "source": "The New York Times", 
-      "slideshow_credits": null, 
-      "web_url": "http://www.nytimes.com/2016/12/27/movies/carrie-fisher-dead-star-wars-princess-leia.html", 
-      "multimedia": [], 
-      "subsection_name": null, 
-      "keywords": [
-        {
-          "value": "Fisher, Carrie", 
-          "is_major": "Y", 
-          "rank": "1", 
-          "name": "persons"
-        }, 
-        {
-          "value": "Deaths (Obituaries)", 
-          "is_major": "Y", 
-          "rank": "2", 
-          "name": "subject"
-        }, 
-        {
-          "value": "Actors and Actresses", 
-          "is_major": "N", 
-          "rank": "3", 
-          "name": "subject"
-        }, 
-        {
-          "value": "Movies", 
-          "is_major": "Y", 
-          "rank": "4", 
-          "name": "subject"
-        }, 
-        {
-          "value": "Star Wars (Movie)", 
-          "is_major": "N", 
-          "rank": "5", 
-          "name": "creative_works"
-        }, 
-        {
-          "value": "Books and Literature", 
-          "is_major": "Y", 
-          "rank": "6", 
-          "name": "subject"
-        }
-      ], 
-      "byline": {
-        "person": [
-          {
-            "organization": "", 
-            "role": "reported", 
-            "rank": 1, 
-            "firstname": "Dave", 
-            "lastname": "ITZKOFF"
-          }
-        ], 
-        "original": "By DAVE ITZKOFF"
-      }, 
-      "document_type": "article", 
-      "pub_date": "2016-12-27T18:11:57+0000", 
-      "section_name": "Movies"
-    }, 
-    {
-      "type_of_material": "Obituary (Obit)", 
-      "blog": [], 
-      "news_desk": "Culture", 
-      "lead_paragraph": "Ms. Morgan was just 26 when she starred as a blind woman in Jean Delannoy\u2019s \u201cPastoral Symphony.\u201d She and the film won honors at the first Cannes festival.", 
-      "headline": {
-        "main": "Mich\u00e8le Morgan, the First \u2018Best Actress\u2019 at Cannes, Dies at 96", 
-        "print_headline": "Mich\u00e8le Morgan, 96, Elegant French Actress"
-      }, 
-      "abstract": null, 
-      "print_page": "17", 
-      "word_count": "649", 
-      "_id": "585c919895d0e039260777b3", 
-      "snippet": "Ms. Morgan was just 26 when she starred as a blind woman in Jean Delannoy\u2019s \u201cPastoral Symphony.\u201d She and the film won honors at the first Cannes festival....", 
-      "source": "The New York Times", 
-      "slideshow_credits": null, 
-      "web_url": "http://www.nytimes.com/2016/12/22/movies/michelle-morgan-actress-france.html", 
-      "multimedia": [
-        {
-          "subtype": "wide", 
-          "url": "images/2016/12/24/arts/24morgan-obit-1/23morgan-obit-1-thumbWide.jpg", 
-          "height": 126, 
-          "width": 190, 
-          "legacy": {
-            "wide": "images/2016/12/24/arts/24morgan-obit-1/23morgan-obit-1-thumbWide.jpg", 
-            "wideheight": "126", 
-            "widewidth": "190"
-          }, 
-          "type": "image"
-        }, 
-        {
-          "subtype": "xlarge", 
-          "url": "images/2016/12/24/arts/24morgan-obit-1/23morgan-obit-1-articleLarge.jpg", 
-          "height": 451, 
-          "width": 600, 
-          "legacy": {
-            "xlargewidth": "600", 
-            "xlarge": "images/2016/12/24/arts/24morgan-obit-1/23morgan-obit-1-articleLarge.jpg", 
-            "xlargeheight": "451"
-          }, 
-          "type": "image"
-        }, 
-        {
-          "subtype": "thumbnail", 
-          "url": "images/2016/12/24/arts/24morgan-obit-1/23morgan-obit-1-thumbStandard.jpg", 
-          "height": 75, 
-          "width": 75, 
-          "legacy": {
-            "thumbnailheight": "75", 
-            "thumbnail": "images/2016/12/24/arts/24morgan-obit-1/23morgan-obit-1-thumbStandard.jpg", 
-            "thumbnailwidth": "75"
-          }, 
-          "type": "image"
-        }
-      ], 
-      "subsection_name": null, 
-      "keywords": [
-        {
-          "value": "Morgan, Michele (1920-2016)", 
-          "is_major": "N", 
-          "rank": "1", 
-          "name": "persons"
-        }, 
-        {
-          "value": "Actors and Actresses", 
-          "is_major": "N", 
-          "rank": "2", 
-          "name": "subject"
-        }, 
-        {
-          "value": "Cannes International Film Festival", 
-          "is_major": "N", 
-          "rank": "3", 
-          "name": "subject"
-        }, 
-        {
-          "value": "Deaths (Obituaries)", 
-          "is_major": "N", 
-          "rank": "4", 
-          "name": "subject"
-        }
-      ], 
-      "byline": {
-        "person": [
-          {
-            "organization": "", 
-            "role": "reported", 
-            "rank": 1, 
-            "firstname": "Anita", 
-            "lastname": "GATES"
-          }
-        ], 
-        "original": "By ANITA GATES"
-      }, 
-      "document_type": "article", 
-      "pub_date": "2016-12-23T02:53:06+0000", 
-      "section_name": "Movies"
-    }, 
-    {
-      "type_of_material": "Obituary (Obit)", 
-      "blog": [], 
-      "news_desk": "Culture", 
-      "lead_paragraph": "Mr. Berry wrote the play \u201cThe Whales of August\u201d and the screenplay of the movie version.", 
-      "headline": {
-        "main": "David Berry, Playwright and Screenwriter, Dies at 73", 
-        "print_headline": "David Berry, 73, Wrote for Stage and Screen"
-      }, 
-      "abstract": null, 
-      "print_page": "15", 
-      "word_count": "471", 
-      "_id": "585c794295d0e0392607778b", 
-      "snippet": "Mr. Berry wrote the play \u201cThe Whales of August\u201d and the screenplay of the movie version....", 
-      "source": "The New York Times", 
-      "slideshow_credits": null, 
-      "web_url": "http://www.nytimes.com/2016/12/22/theater/david-berry-whales-of-august.html", 
-      "multimedia": [
-        {
-          "subtype": "wide", 
-          "url": "images/2016/12/23/arts/23berry-obit-2/23berry-obit-2-thumbWide.jpg", 
-          "height": 126, 
-          "width": 190, 
-          "legacy": {
-            "wide": "images/2016/12/23/arts/23berry-obit-2/23berry-obit-2-thumbWide.jpg", 
-            "wideheight": "126", 
-            "widewidth": "190"
-          }, 
-          "type": "image"
-        }, 
-        {
-          "subtype": "xlarge", 
-          "url": "images/2016/12/23/arts/23berry-obit-2/23berry-obit-2-articleLarge.jpg", 
-          "height": 400, 
-          "width": 600, 
-          "legacy": {
-            "xlargewidth": "600", 
-            "xlarge": "images/2016/12/23/arts/23berry-obit-2/23berry-obit-2-articleLarge.jpg", 
-            "xlargeheight": "400"
-          }, 
-          "type": "image"
-        }, 
-        {
-          "subtype": "thumbnail", 
-          "url": "images/2016/12/23/arts/23berry-obit-2/23berry-obit-2-thumbStandard.jpg", 
-          "height": 75, 
-          "width": 75, 
-          "legacy": {
-            "thumbnailheight": "75", 
-            "thumbnail": "images/2016/12/23/arts/23berry-obit-2/23berry-obit-2-thumbStandard.jpg", 
-            "thumbnailwidth": "75"
-          }, 
-          "type": "image"
-        }
-      ], 
-      "subsection_name": null, 
-      "keywords": [
-        {
-          "value": "Berry, David Adams (1943-2016)", 
-          "is_major": "N", 
-          "rank": "1", 
-          "name": "persons"
-        }, 
-        {
-          "value": "The Whales of August (Movie)", 
-          "is_major": "N", 
-          "rank": "2", 
-          "name": "creative_works"
-        }, 
-        {
-          "value": "Movies", 
-          "is_major": "N", 
-          "rank": "3", 
-          "name": "subject"
-        }, 
-        {
-          "value": "Theater", 
-          "is_major": "N", 
-          "rank": "4", 
-          "name": "subject"
-        }, 
-        {
-          "value": "Deaths (Obituaries)", 
-          "is_major": "Y", 
-          "rank": "5", 
-          "name": "subject"
-        }
-      ], 
-      "byline": {
-        "person": [
-          {
-            "organization": "", 
-            "role": "reported", 
-            "rank": 1, 
-            "firstname": "Medea", 
-            "lastname": "GIORDANO"
-          }
-        ], 
-        "original": "By MEDEA GIORDANO"
-      }, 
-      "document_type": "article", 
-      "pub_date": "2016-12-23T01:09:13+0000", 
-      "section_name": "Theater"
-    }, 
-    {
-      "type_of_material": "Obituary (Obit)", 
-      "blog": [], 
-      "news_desk": "Foreign", 
-      "lead_paragraph": "Ms. Pritchard said that by the end of the war she had \u201clied, stolen, cheated, deceived and even killed\u201d to shelter Jews in the Netherlands.", 
-      "headline": {
-        "main": "Marion Pritchard, Who Risked Her Life to Rescue Jews From Nazis, Dies at 96", 
-        "print_headline": "Marion Pritchard, Wartime Rescuer of Jews, Dies at 96"
-      }, 
-      "abstract": null, 
-      "print_page": "17", 
-      "word_count": "1232", 
-      "_id": "585dae1495d0e03926077a22", 
-      "snippet": "Ms. Pritchard said that by the end of the war she had \u201clied, stolen, cheated, deceived and even killed\u201d to shelter Jews in the Netherlands....", 
-      "source": "The New York Times", 
-      "slideshow_credits": null, 
-      "web_url": "http://www.nytimes.com/2016/12/23/world/europe/marion-pritchard-rescuer-of-jews.html", 
-      "multimedia": [
-        {
-          "subtype": "wide", 
-          "url": "images/2016/12/24/world/24pritchard-obit-1/22pritchard-obit-1-thumbWide.jpg", 
-          "height": 126, 
-          "width": 190, 
-          "legacy": {
-            "wide": "images/2016/12/24/world/24pritchard-obit-1/22pritchard-obit-1-thumbWide.jpg", 
-            "wideheight": "126", 
-            "widewidth": "190"
-          }, 
-          "type": "image"
-        }, 
-        {
-          "subtype": "xlarge", 
-          "url": "images/2016/12/24/world/24pritchard-obit-1/22pritchard-obit-1-articleLarge.jpg", 
-          "height": 747, 
-          "width": 600, 
-          "legacy": {
-            "xlargewidth": "600", 
-            "xlarge": "images/2016/12/24/world/24pritchard-obit-1/22pritchard-obit-1-articleLarge.jpg", 
-            "xlargeheight": "747"
-          }, 
-          "type": "image"
-        }, 
-        {
-          "subtype": "thumbnail", 
-          "url": "images/2016/12/24/world/24pritchard-obit-1/22pritchard-obit-1-thumbStandard.jpg", 
-          "height": 75, 
-          "width": 75, 
-          "legacy": {
-            "thumbnailheight": "75", 
-            "thumbnail": "images/2016/12/24/world/24pritchard-obit-1/22pritchard-obit-1-thumbStandard.jpg", 
-            "thumbnailwidth": "75"
-          }, 
-          "type": "image"
-        }
-      ], 
-      "subsection_name": "Europe", 
-      "keywords": [
-        {
-          "value": "Pritchard, Marion (1920-2016)", 
-          "is_major": "N", 
-          "rank": "1", 
-          "name": "persons"
-        }, 
-        {
-          "value": "Deaths (Obituaries)", 
-          "is_major": "N", 
-          "rank": "2", 
-          "name": "subject"
-        }, 
-        {
-          "value": "Holocaust and the Nazi Era", 
-          "is_major": "N", 
-          "rank": "3", 
-          "name": "subject"
-        }, 
-        {
-          "value": "World War II (1939-45)", 
-          "is_major": "N", 
-          "rank": "4", 
-          "name": "subject"
-        }, 
-        {
-          "value": "Amsterdam (Netherlands)", 
-          "is_major": "N", 
-          "rank": "5", 
-          "name": "glocations"
-        }
-      ], 
-      "byline": {
-        "person": [
-          {
-            "organization": "", 
-            "role": "reported", 
-            "rank": 1, 
-            "firstname": "Richard", 
-            "lastname": "SANDOMIR"
-          }
-        ], 
-        "original": "By RICHARD SANDOMIR"
-      }, 
-      "document_type": "article", 
-      "pub_date": "2016-12-23T23:06:55+0000", 
-      "section_name": "World"
     }, 
     {
       "type_of_material": "Obituary (Obit)", 
@@ -2896,228 +2308,32 @@
       "document_type": "article", 
       "pub_date": "2016-12-21T00:40:52+0000", 
       "section_name": "Movies"
-    }
-  ], 
-  [
-    {
-      "type_of_material": "Obituary (Obit)", 
-      "blog": [], 
-      "news_desk": "Foreign", 
-      "lead_paragraph": "Mr. Risom, a Danish immigrant, fused Scandinavian and rustic American influences in a celebrated armless chair that\u2019s still selling 74 years later, and other modernist pieces for Knoll Studio.", 
-      "headline": {
-        "main": "Jens Risom, Modernist Designer Whose Furniture Still Has Legs, Dies at 100", 
-        "print_headline": "Jens Risom, 100, Modernist Designer Whose Furniture Still Has Legs, Is Dead"
-      }, 
-      "abstract": "Jens Risom, Danish furniture designer whose work for Knoll Studio introduced midcentury modern style to United States, dies at age 100.", 
-      "print_page": "12", 
-      "word_count": "911", 
-      "_id": "585c851695d0e039260777a5", 
-      "snippet": "Mr. Risom, a Danish immigrant, fused Scandinavian and rustic American influences in a celebrated armless chair that\u2019s still selling 74 years later, and other modernist pieces for Knoll Studio....", 
-      "source": "The New York Times", 
-      "slideshow_credits": null, 
-      "web_url": "http://www.nytimes.com/2016/12/22/world/europe/jens-risom-dead.html", 
-      "multimedia": [
-        {
-          "subtype": "wide", 
-          "url": "images/2016/12/23/world/23risom-obit-1/23risom-obit-1-thumbWide.jpg", 
-          "height": 126, 
-          "width": 190, 
-          "legacy": {
-            "wide": "images/2016/12/23/world/23risom-obit-1/23risom-obit-1-thumbWide.jpg", 
-            "wideheight": "126", 
-            "widewidth": "190"
-          }, 
-          "type": "image"
-        }, 
-        {
-          "subtype": "xlarge", 
-          "url": "images/2016/12/23/world/23risom-obit-1/23risom-obit-1-articleLarge.jpg", 
-          "height": 776, 
-          "width": 600, 
-          "legacy": {
-            "xlargewidth": "600", 
-            "xlarge": "images/2016/12/23/world/23risom-obit-1/23risom-obit-1-articleLarge.jpg", 
-            "xlargeheight": "776"
-          }, 
-          "type": "image"
-        }, 
-        {
-          "subtype": "thumbnail", 
-          "url": "images/2016/12/23/world/23risom-obit-1/23risom-obit-1-thumbStandard.jpg", 
-          "height": 75, 
-          "width": 75, 
-          "legacy": {
-            "thumbnailheight": "75", 
-            "thumbnail": "images/2016/12/23/world/23risom-obit-1/23risom-obit-1-thumbStandard.jpg", 
-            "thumbnailwidth": "75"
-          }, 
-          "type": "image"
-        }
-      ], 
-      "subsection_name": "Europe", 
-      "keywords": [
-        {
-          "value": "Risom, Jens", 
-          "is_major": "Y", 
-          "rank": "1", 
-          "name": "persons"
-        }, 
-        {
-          "value": "Furniture", 
-          "is_major": "N", 
-          "rank": "2", 
-          "name": "subject"
-        }, 
-        {
-          "value": "Design Within Reach", 
-          "is_major": "N", 
-          "rank": "3", 
-          "name": "organizations"
-        }, 
-        {
-          "value": "Knoll Inc", 
-          "is_major": "N", 
-          "rank": "4", 
-          "name": "organizations"
-        }, 
-        {
-          "value": "Deaths (Obituaries)", 
-          "is_major": "Y", 
-          "rank": "5", 
-          "name": "subject"
-        }
-      ], 
-      "byline": {
-        "person": [
-          {
-            "organization": "", 
-            "role": "reported", 
-            "rank": 1, 
-            "firstname": "Jacob", 
-            "lastname": "BERNSTEIN"
-          }
-        ], 
-        "original": "By JACOB BERNSTEIN"
-      }, 
-      "document_type": "article", 
-      "pub_date": "2016-12-23T01:59:43+0000", 
-      "section_name": "World"
-    }, 
-    {
-      "type_of_material": "Obituary (Obit)", 
-      "blog": [], 
-      "news_desk": "Foreign", 
-      "lead_paragraph": "General Alvarez was serving a prison sentence for human rights abuses under his leadership as army chief and president during the 1970s and 1980s.", 
-      "headline": {
-        "main": "Gen. Gregorio Alvarez, Last Uruguayan Dictator, Dies at 91"
-      }, 
-      "abstract": null, 
-      "print_page": null, 
-      "word_count": "302", 
-      "_id": "5864467395d0e039260781a9", 
-      "snippet": "General Alvarez was serving a prison sentence for human rights abuses under his leadership as army chief and president during the 1970s and 1980s....", 
-      "source": "The New York Times", 
-      "slideshow_credits": null, 
-      "web_url": "http://www.nytimes.com/2016/12/28/world/americas/gregorio-alvarez-died-uruguay-dictator.html", 
-      "multimedia": [
-        {
-          "subtype": "wide", 
-          "url": "images/2016/12/31/world/31alvarez-obit/29alvarez-obit-thumbWide.jpg", 
-          "height": 126, 
-          "width": 190, 
-          "legacy": {
-            "wide": "images/2016/12/31/world/31alvarez-obit/29alvarez-obit-thumbWide.jpg", 
-            "wideheight": "126", 
-            "widewidth": "190"
-          }, 
-          "type": "image"
-        }, 
-        {
-          "subtype": "xlarge", 
-          "url": "images/2016/12/31/world/31alvarez-obit/29alvarez-obit-articleLarge.jpg", 
-          "height": 400, 
-          "width": 600, 
-          "legacy": {
-            "xlargewidth": "600", 
-            "xlarge": "images/2016/12/31/world/31alvarez-obit/29alvarez-obit-articleLarge.jpg", 
-            "xlargeheight": "400"
-          }, 
-          "type": "image"
-        }, 
-        {
-          "subtype": "thumbnail", 
-          "url": "images/2016/12/31/world/31alvarez-obit/29alvarez-obit-thumbStandard.jpg", 
-          "height": 75, 
-          "width": 75, 
-          "legacy": {
-            "thumbnailheight": "75", 
-            "thumbnail": "images/2016/12/31/world/31alvarez-obit/29alvarez-obit-thumbStandard.jpg", 
-            "thumbnailwidth": "75"
-          }, 
-          "type": "image"
-        }
-      ], 
-      "subsection_name": "Americas", 
-      "keywords": [
-        {
-          "value": "Alvarez, Gregorio (1925-2016)", 
-          "is_major": "N", 
-          "rank": "1", 
-          "name": "persons"
-        }, 
-        {
-          "value": "Deaths (Obituaries)", 
-          "is_major": "N", 
-          "rank": "2", 
-          "name": "subject"
-        }, 
-        {
-          "value": "Uruguay", 
-          "is_major": "N", 
-          "rank": "3", 
-          "name": "glocations"
-        }, 
-        {
-          "value": "Operation Condor", 
-          "is_major": "N", 
-          "rank": "4", 
-          "name": "subject"
-        }
-      ], 
-      "byline": {
-        "person": [], 
-        "original": "By THE ASSOCIATED PRESS", 
-        "organization": "THE ASSOCIATED PRESS"
-      }, 
-      "document_type": "article", 
-      "pub_date": "2016-12-28T23:10:37+0000", 
-      "section_name": "World"
     }, 
     {
       "type_of_material": "Obituary (Obit)", 
       "blog": [], 
       "news_desk": "Culture", 
-      "lead_paragraph": "Ms. Marjane made the ballad \u201cAlone Tonight\u201d a signature song of the period.", 
+      "lead_paragraph": "Ms. Kim won Tony Awards for her designs in \u201cSophisticated Ladies\u201d and \u201cThe Will Rogers Follies,\u201d and worked in dance and opera as well.", 
       "headline": {
-        "main": "L\u00e9o Marjane, a Music Hall Star in Occupied France, Dies at 104", 
-        "print_headline": "L\u00e9o Marjane, 104, Songbird of Occupied France"
+        "main": "Willa Kim, Designer of Fanciful Costumes, Dies at 99", 
+        "print_headline": "Willa Kim, Costumer of Inspired Whimsy, Dies at 99"
       }, 
       "abstract": null, 
       "print_page": "28", 
-      "word_count": "588", 
-      "_id": "586189b595d0e03926077d58", 
-      "snippet": "Ms. Marjane made the ballad \u201cAlone Tonight\u201d a signature song of the period....", 
+      "word_count": "1078", 
+      "_id": "5863d79e95d0e039260780a2", 
+      "snippet": "Ms. Kim won Tony Awards for her designs in \u201cSophisticated Ladies\u201d and \u201cThe Will Rogers Follies,\u201d and worked in dance and opera as well....", 
       "source": "The New York Times", 
       "slideshow_credits": null, 
-      "web_url": "http://www.nytimes.com/2016/12/26/arts/music/leo-marjane-dead-french-singer.html", 
+      "web_url": "http://www.nytimes.com/2016/12/28/theater/willa-kim-dead-tony-winning-costume-designer.html", 
       "multimedia": [
         {
           "subtype": "wide", 
-          "url": "images/2016/12/25/arts/25marjane-obit/25marjane-obit-thumbWide.jpg", 
+          "url": "images/2016/12/25/arts/25kim-obit-1/25kim-obit-1-thumbWide.jpg", 
           "height": 126, 
           "width": 190, 
           "legacy": {
-            "wide": "images/2016/12/25/arts/25marjane-obit/25marjane-obit-thumbWide.jpg", 
+            "wide": "images/2016/12/25/arts/25kim-obit-1/25kim-obit-1-thumbWide.jpg", 
             "wideheight": "126", 
             "widewidth": "190"
           }, 
@@ -3125,122 +2341,24 @@
         }, 
         {
           "subtype": "xlarge", 
-          "url": "images/2016/12/25/arts/25marjane-obit/25marjane-obit-articleLarge.jpg", 
-          "height": 832, 
+          "url": "images/2016/12/25/arts/25kim-obit-1/25kim-obit-1-articleLarge.jpg", 
+          "height": 910, 
           "width": 600, 
           "legacy": {
             "xlargewidth": "600", 
-            "xlarge": "images/2016/12/25/arts/25marjane-obit/25marjane-obit-articleLarge.jpg", 
-            "xlargeheight": "832"
+            "xlarge": "images/2016/12/25/arts/25kim-obit-1/25kim-obit-1-articleLarge.jpg", 
+            "xlargeheight": "910"
           }, 
           "type": "image"
         }, 
         {
           "subtype": "thumbnail", 
-          "url": "images/2016/12/25/arts/25marjane-obit/25marjane-obit-thumbStandard.jpg", 
+          "url": "images/2016/12/25/arts/25kim-obit-1/25kim-obit-1-thumbStandard.jpg", 
           "height": 75, 
           "width": 75, 
           "legacy": {
             "thumbnailheight": "75", 
-            "thumbnail": "images/2016/12/25/arts/25marjane-obit/25marjane-obit-thumbStandard.jpg", 
-            "thumbnailwidth": "75"
-          }, 
-          "type": "image"
-        }
-      ], 
-      "subsection_name": "Music", 
-      "keywords": [
-        {
-          "value": "Marjane, Leo (1912-2016)", 
-          "is_major": "N", 
-          "rank": "1", 
-          "name": "persons"
-        }, 
-        {
-          "value": "Deaths (Obituaries)", 
-          "is_major": "N", 
-          "rank": "2", 
-          "name": "subject"
-        }, 
-        {
-          "value": "Music", 
-          "is_major": "N", 
-          "rank": "3", 
-          "name": "subject"
-        }, 
-        {
-          "value": "Alone Tonight (Song)", 
-          "is_major": "N", 
-          "rank": "4", 
-          "name": "creative_works"
-        }
-      ], 
-      "byline": {
-        "person": [
-          {
-            "organization": "", 
-            "role": "reported", 
-            "rank": 1, 
-            "firstname": "William", 
-            "lastname": "GRIMES"
-          }
-        ], 
-        "original": "By WILLIAM GRIMES"
-      }, 
-      "document_type": "article", 
-      "pub_date": "2016-12-26T21:20:50+0000", 
-      "section_name": "Arts"
-    }, 
-    {
-      "type_of_material": "Obituary (Obit)", 
-      "blog": [], 
-      "news_desk": "National", 
-      "lead_paragraph": "From the 1950s into the \u201990s, Mr. Harris not only gauged opinions, but sometimes helped make them, with his marketing advice to politicians and companies.", 
-      "headline": {
-        "main": "Louis Harris, Pollster at Forefront of American Trends, Dies at 95", 
-        "print_headline": "Louis Harris, 95, Pollster at Forefront of American Trends for Decades, Dies"
-      }, 
-      "abstract": "Louis Harris, pollster who developed reputation for extraordinarily prescient interpretive polling methods over career that spanned decades, dies at age 95.", 
-      "print_page": "21", 
-      "word_count": "1504", 
-      "_id": "5858287695d0e03926076d24", 
-      "snippet": "From the 1950s into the \u201990s, Mr. Harris not only gauged opinions, but sometimes helped make them, with his marketing advice to politicians and companies....", 
-      "source": "The New York Times", 
-      "slideshow_credits": null, 
-      "web_url": "http://www.nytimes.com/2016/12/19/us/louis-harris-pollster-at-forefront-of-american-trends-dies-at-95.html", 
-      "multimedia": [
-        {
-          "subtype": "wide", 
-          "url": "images/2016/12/20/us/20harris-obit-1482189087078/20harris-obit-1482189087078-thumbWide.jpg", 
-          "height": 126, 
-          "width": 190, 
-          "legacy": {
-            "wide": "images/2016/12/20/us/20harris-obit-1482189087078/20harris-obit-1482189087078-thumbWide.jpg", 
-            "wideheight": "126", 
-            "widewidth": "190"
-          }, 
-          "type": "image"
-        }, 
-        {
-          "subtype": "xlarge", 
-          "url": "images/2016/12/20/us/20harris-obit-1482189087078/20harris-obit-1482189087078-articleLarge.jpg", 
-          "height": 400, 
-          "width": 600, 
-          "legacy": {
-            "xlargewidth": "600", 
-            "xlarge": "images/2016/12/20/us/20harris-obit-1482189087078/20harris-obit-1482189087078-articleLarge.jpg", 
-            "xlargeheight": "400"
-          }, 
-          "type": "image"
-        }, 
-        {
-          "subtype": "thumbnail", 
-          "url": "images/2016/12/20/us/20harris-obit-1482189087078/20harris-obit-1482189087078-thumbStandard.jpg", 
-          "height": 75, 
-          "width": 75, 
-          "legacy": {
-            "thumbnailheight": "75", 
-            "thumbnail": "images/2016/12/20/us/20harris-obit-1482189087078/20harris-obit-1482189087078-thumbStandard.jpg", 
+            "thumbnail": "images/2016/12/25/arts/25kim-obit-1/25kim-obit-1-thumbStandard.jpg", 
             "thumbnailwidth": "75"
           }, 
           "type": "image"
@@ -3249,26 +2367,26 @@
       "subsection_name": null, 
       "keywords": [
         {
-          "value": "Harris, Louis", 
-          "is_major": "Y", 
+          "value": "Kim, Willa (1917-2016)", 
+          "is_major": "N", 
           "rank": "1", 
           "name": "persons"
         }, 
         {
-          "value": "Polls and Public Opinion", 
+          "value": "Deaths (Obituaries)", 
           "is_major": "N", 
           "rank": "2", 
           "name": "subject"
         }, 
         {
-          "value": "United States Politics and Government", 
+          "value": "Theater", 
           "is_major": "N", 
           "rank": "3", 
           "name": "subject"
         }, 
         {
-          "value": "Deaths (Obituaries)", 
-          "is_major": "Y", 
+          "value": "Costumes", 
+          "is_major": "N", 
           "rank": "4", 
           "name": "subject"
         }
@@ -3279,125 +2397,15 @@
             "organization": "", 
             "role": "reported", 
             "rank": 1, 
-            "firstname": "Robert"
+            "firstname": "Anita", 
+            "lastname": "GATES"
           }
         ], 
-        "original": "By ROBERT D. McFADDEN"
+        "original": "By ANITA GATES"
       }, 
       "document_type": "article", 
-      "pub_date": "2016-12-19T18:35:28+0000", 
-      "section_name": "U.S."
-    }, 
-    {
-      "type_of_material": "Obituary (Obit)", 
-      "blog": [], 
-      "news_desk": "Foreign", 
-      "lead_paragraph": "The cardinal\u2019s advocacy of human rights placed him in opposition to a military dictatorship; his leftist views put him at odds with the Vatican.", 
-      "headline": {
-        "main": "Cardinal Paulo Evaristo Arns Dies at 95; Fought Torture in Brazil", 
-        "print_headline": "Cardinal Paulo Evaristo Arns Dies at 95; Fought Torture"
-      }, 
-      "abstract": "Cardinal Paulo Evaristo Arns, Roman Catholic cleric who documented and spoke out against human rights abuses by Brazil's military dictatorship, dies at age 95.", 
-      "print_page": "20", 
-      "word_count": "947", 
-      "_id": "5857496b95d0e03926076b35", 
-      "snippet": "The cardinal\u2019s advocacy of human rights placed him in opposition to a military dictatorship; his leftist views put him at odds with the Vatican....", 
-      "source": "The New York Times", 
-      "slideshow_credits": null, 
-      "web_url": "http://www.nytimes.com/2016/12/18/world/americas/cardinal-paulo-evaristo-arns-brazil-dead.html", 
-      "multimedia": [
-        {
-          "subtype": "wide", 
-          "url": "images/2016/12/20/world/20ARNS-obit/19ARNS-obit-thumbWide-v2.jpg", 
-          "height": 126, 
-          "width": 190, 
-          "legacy": {
-            "wide": "images/2016/12/20/world/20ARNS-obit/19ARNS-obit-thumbWide-v2.jpg", 
-            "wideheight": "126", 
-            "widewidth": "190"
-          }, 
-          "type": "image"
-        }, 
-        {
-          "subtype": "xlarge", 
-          "url": "images/2016/12/20/world/20ARNS-obit/19ARNS-obit-articleLarge.jpg", 
-          "height": 435, 
-          "width": 600, 
-          "legacy": {
-            "xlargewidth": "600", 
-            "xlarge": "images/2016/12/20/world/20ARNS-obit/19ARNS-obit-articleLarge.jpg", 
-            "xlargeheight": "435"
-          }, 
-          "type": "image"
-        }, 
-        {
-          "subtype": "thumbnail", 
-          "url": "images/2016/12/20/world/20ARNS-obit/19ARNS-obit-thumbStandard-v2.jpg", 
-          "height": 75, 
-          "width": 75, 
-          "legacy": {
-            "thumbnailheight": "75", 
-            "thumbnail": "images/2016/12/20/world/20ARNS-obit/19ARNS-obit-thumbStandard-v2.jpg", 
-            "thumbnailwidth": "75"
-          }, 
-          "type": "image"
-        }
-      ], 
-      "subsection_name": "Americas", 
-      "keywords": [
-        {
-          "value": "Arns, Paulo Evaristo (1921-2016)", 
-          "is_major": "N", 
-          "rank": "1", 
-          "name": "persons"
-        }, 
-        {
-          "value": "Roman Catholic Church", 
-          "is_major": "N", 
-          "rank": "2", 
-          "name": "organizations"
-        }, 
-        {
-          "value": "Human Rights and Human Rights Violations", 
-          "is_major": "N", 
-          "rank": "3", 
-          "name": "subject"
-        }, 
-        {
-          "value": "Torture", 
-          "is_major": "N", 
-          "rank": "4", 
-          "name": "subject"
-        }, 
-        {
-          "value": "Brazil", 
-          "is_major": "N", 
-          "rank": "5", 
-          "name": "glocations"
-        }, 
-        {
-          "value": "Deaths (Obituaries)", 
-          "is_major": "Y", 
-          "rank": "6", 
-          "name": "subject"
-        }
-      ], 
-      "byline": {
-        "contributor": "", 
-        "person": [
-          {
-            "organization": "", 
-            "role": "reported", 
-            "rank": 1, 
-            "firstname": "Richard", 
-            "lastname": "SANDOMIR"
-          }
-        ], 
-        "original": "By RICHARD SANDOMIR"
-      }, 
-      "document_type": "article", 
-      "pub_date": "2016-12-19T02:43:43+0000", 
-      "section_name": "World"
+      "pub_date": "2016-12-28T15:17:44+0000", 
+      "section_name": "Theater"
     }, 
     {
       "type_of_material": "Obituary (Obit)", 
@@ -3617,6 +2625,309 @@
     {
       "type_of_material": "Obituary (Obit)", 
       "blog": [], 
+      "news_desk": "National", 
+      "lead_paragraph": "From the 1950s into the \u201990s, Mr. Harris not only gauged opinions, but sometimes helped make them, with his marketing advice to politicians and companies.", 
+      "headline": {
+        "main": "Louis Harris, Pollster at Forefront of American Trends, Dies at 95", 
+        "print_headline": "Louis Harris, 95, Pollster at Forefront of American Trends for Decades, Dies"
+      }, 
+      "abstract": "Louis Harris, pollster who developed reputation for extraordinarily prescient interpretive polling methods over career that spanned decades, dies at age 95.", 
+      "print_page": "21", 
+      "word_count": "1504", 
+      "_id": "5858287695d0e03926076d24", 
+      "snippet": "From the 1950s into the \u201990s, Mr. Harris not only gauged opinions, but sometimes helped make them, with his marketing advice to politicians and companies....", 
+      "source": "The New York Times", 
+      "slideshow_credits": null, 
+      "web_url": "http://www.nytimes.com/2016/12/19/us/louis-harris-pollster-at-forefront-of-american-trends-dies-at-95.html", 
+      "multimedia": [
+        {
+          "subtype": "wide", 
+          "url": "images/2016/12/20/us/20harris-obit-1482189087078/20harris-obit-1482189087078-thumbWide.jpg", 
+          "height": 126, 
+          "width": 190, 
+          "legacy": {
+            "wide": "images/2016/12/20/us/20harris-obit-1482189087078/20harris-obit-1482189087078-thumbWide.jpg", 
+            "wideheight": "126", 
+            "widewidth": "190"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "xlarge", 
+          "url": "images/2016/12/20/us/20harris-obit-1482189087078/20harris-obit-1482189087078-articleLarge.jpg", 
+          "height": 400, 
+          "width": 600, 
+          "legacy": {
+            "xlargewidth": "600", 
+            "xlarge": "images/2016/12/20/us/20harris-obit-1482189087078/20harris-obit-1482189087078-articleLarge.jpg", 
+            "xlargeheight": "400"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "thumbnail", 
+          "url": "images/2016/12/20/us/20harris-obit-1482189087078/20harris-obit-1482189087078-thumbStandard.jpg", 
+          "height": 75, 
+          "width": 75, 
+          "legacy": {
+            "thumbnailheight": "75", 
+            "thumbnail": "images/2016/12/20/us/20harris-obit-1482189087078/20harris-obit-1482189087078-thumbStandard.jpg", 
+            "thumbnailwidth": "75"
+          }, 
+          "type": "image"
+        }
+      ], 
+      "subsection_name": null, 
+      "keywords": [
+        {
+          "value": "Harris, Louis", 
+          "is_major": "Y", 
+          "rank": "1", 
+          "name": "persons"
+        }, 
+        {
+          "value": "Polls and Public Opinion", 
+          "is_major": "N", 
+          "rank": "2", 
+          "name": "subject"
+        }, 
+        {
+          "value": "United States Politics and Government", 
+          "is_major": "N", 
+          "rank": "3", 
+          "name": "subject"
+        }, 
+        {
+          "value": "Deaths (Obituaries)", 
+          "is_major": "Y", 
+          "rank": "4", 
+          "name": "subject"
+        }
+      ], 
+      "byline": {
+        "person": [
+          {
+            "organization": "", 
+            "role": "reported", 
+            "rank": 1, 
+            "firstname": "Robert"
+          }
+        ], 
+        "original": "By ROBERT D. McFADDEN"
+      }, 
+      "document_type": "article", 
+      "pub_date": "2016-12-19T18:35:28+0000", 
+      "section_name": "U.S."
+    }, 
+    {
+      "type_of_material": "Obituary (Obit)", 
+      "blog": [], 
+      "news_desk": "Foreign", 
+      "lead_paragraph": "The cardinal\u2019s advocacy of human rights placed him in opposition to a military dictatorship; his leftist views put him at odds with the Vatican.", 
+      "headline": {
+        "main": "Cardinal Paulo Evaristo Arns Dies at 95; Fought Torture in Brazil", 
+        "print_headline": "Cardinal Paulo Evaristo Arns Dies at 95; Fought Torture"
+      }, 
+      "abstract": "Cardinal Paulo Evaristo Arns, Roman Catholic cleric who documented and spoke out against human rights abuses by Brazil's military dictatorship, dies at age 95.", 
+      "print_page": "20", 
+      "word_count": "947", 
+      "_id": "5857496b95d0e03926076b35", 
+      "snippet": "The cardinal\u2019s advocacy of human rights placed him in opposition to a military dictatorship; his leftist views put him at odds with the Vatican....", 
+      "source": "The New York Times", 
+      "slideshow_credits": null, 
+      "web_url": "http://www.nytimes.com/2016/12/18/world/americas/cardinal-paulo-evaristo-arns-brazil-dead.html", 
+      "multimedia": [
+        {
+          "subtype": "wide", 
+          "url": "images/2016/12/20/world/20ARNS-obit/19ARNS-obit-thumbWide-v2.jpg", 
+          "height": 126, 
+          "width": 190, 
+          "legacy": {
+            "wide": "images/2016/12/20/world/20ARNS-obit/19ARNS-obit-thumbWide-v2.jpg", 
+            "wideheight": "126", 
+            "widewidth": "190"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "xlarge", 
+          "url": "images/2016/12/20/world/20ARNS-obit/19ARNS-obit-articleLarge.jpg", 
+          "height": 435, 
+          "width": 600, 
+          "legacy": {
+            "xlargewidth": "600", 
+            "xlarge": "images/2016/12/20/world/20ARNS-obit/19ARNS-obit-articleLarge.jpg", 
+            "xlargeheight": "435"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "thumbnail", 
+          "url": "images/2016/12/20/world/20ARNS-obit/19ARNS-obit-thumbStandard-v2.jpg", 
+          "height": 75, 
+          "width": 75, 
+          "legacy": {
+            "thumbnailheight": "75", 
+            "thumbnail": "images/2016/12/20/world/20ARNS-obit/19ARNS-obit-thumbStandard-v2.jpg", 
+            "thumbnailwidth": "75"
+          }, 
+          "type": "image"
+        }
+      ], 
+      "subsection_name": "Americas", 
+      "keywords": [
+        {
+          "value": "Arns, Paulo Evaristo (1921-2016)", 
+          "is_major": "N", 
+          "rank": "1", 
+          "name": "persons"
+        }, 
+        {
+          "value": "Roman Catholic Church", 
+          "is_major": "N", 
+          "rank": "2", 
+          "name": "organizations"
+        }, 
+        {
+          "value": "Human Rights and Human Rights Violations", 
+          "is_major": "N", 
+          "rank": "3", 
+          "name": "subject"
+        }, 
+        {
+          "value": "Torture", 
+          "is_major": "N", 
+          "rank": "4", 
+          "name": "subject"
+        }, 
+        {
+          "value": "Brazil", 
+          "is_major": "N", 
+          "rank": "5", 
+          "name": "glocations"
+        }, 
+        {
+          "value": "Deaths (Obituaries)", 
+          "is_major": "Y", 
+          "rank": "6", 
+          "name": "subject"
+        }
+      ], 
+      "byline": {
+        "contributor": "", 
+        "person": [
+          {
+            "organization": "", 
+            "role": "reported", 
+            "rank": 1, 
+            "firstname": "Richard", 
+            "lastname": "SANDOMIR"
+          }
+        ], 
+        "original": "By RICHARD SANDOMIR"
+      }, 
+      "document_type": "article", 
+      "pub_date": "2016-12-19T02:43:43+0000", 
+      "section_name": "World"
+    }, 
+    {
+      "type_of_material": "Obituary (Obit)", 
+      "blog": [], 
+      "news_desk": "Culture", 
+      "lead_paragraph": "Mr. Snelson applied a fascination with geometric forms to create works that, he said, examined the \u201cwondrous essence of elementary structure.\u201d", 
+      "headline": {
+        "main": "Kenneth Snelson, Sculptor Who Fused Art, Science and Engineering, Dies at 89", 
+        "print_headline": "Kenneth Snelson, Whose Sculptures Fused Art, Science and Engineering, Dies at 89"
+      }, 
+      "abstract": "Kenneth Snelson, sculptor whose structural innovations were based on geometric forms and influenced by his teacher R Buckminster Fuller, dies at age 89.", 
+      "print_page": "11", 
+      "word_count": "1034", 
+      "_id": "585de28295d0e03926077a5f", 
+      "snippet": "Mr. Snelson applied a fascination with geometric forms to create works that, he said, examined the \u201cwondrous essence of elementary structure.\u201d...", 
+      "source": "The New York Times", 
+      "slideshow_credits": null, 
+      "web_url": "http://www.nytimes.com/2016/12/23/arts/design/kenneth-snelson-dead-sculptor.html", 
+      "multimedia": [
+        {
+          "subtype": "wide", 
+          "url": "images/2016/12/24/arts/24snelson-obit-6/24snelson-obit-6-thumbWide.jpg", 
+          "height": 126, 
+          "width": 190, 
+          "legacy": {
+            "wide": "images/2016/12/24/arts/24snelson-obit-6/24snelson-obit-6-thumbWide.jpg", 
+            "wideheight": "126", 
+            "widewidth": "190"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "xlarge", 
+          "url": "images/2016/12/24/arts/24snelson-obit-6/24snelson-obit-6-articleLarge.jpg", 
+          "height": 325, 
+          "width": 600, 
+          "legacy": {
+            "xlargewidth": "600", 
+            "xlarge": "images/2016/12/24/arts/24snelson-obit-6/24snelson-obit-6-articleLarge.jpg", 
+            "xlargeheight": "325"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "thumbnail", 
+          "url": "images/2016/12/24/arts/24snelson-obit-6/24snelson-obit-6-thumbStandard.jpg", 
+          "height": 75, 
+          "width": 75, 
+          "legacy": {
+            "thumbnailheight": "75", 
+            "thumbnail": "images/2016/12/24/arts/24snelson-obit-6/24snelson-obit-6-thumbStandard.jpg", 
+            "thumbnailwidth": "75"
+          }, 
+          "type": "image"
+        }
+      ], 
+      "subsection_name": "Art & Design", 
+      "keywords": [
+        {
+          "value": "Snelson, Kenneth (1927-2016)", 
+          "is_major": "Y", 
+          "rank": "1", 
+          "name": "persons"
+        }, 
+        {
+          "value": "Deaths (Obituaries)", 
+          "is_major": "Y", 
+          "rank": "2", 
+          "name": "subject"
+        }, 
+        {
+          "value": "Sculpture", 
+          "is_major": "N", 
+          "rank": "3", 
+          "name": "subject"
+        }
+      ], 
+      "byline": {
+        "contributor": "", 
+        "person": [
+          {
+            "organization": "", 
+            "role": "reported", 
+            "rank": 1, 
+            "firstname": "William", 
+            "lastname": "GRIMES"
+          }
+        ], 
+        "original": "By WILLIAM GRIMES"
+      }, 
+      "document_type": "article", 
+      "pub_date": "2016-12-24T02:50:39+0000", 
+      "section_name": "Arts"
+    }
+  ], 
+  [
+    {
+      "type_of_material": "Obituary (Obit)", 
+      "blog": [], 
       "news_desk": "Styles", 
       "lead_paragraph": "Ms. Machado was the first nonwhite supermodel, and it\u2019s a legacy the fashion industry has to wrestle with.", 
       "headline": {
@@ -3738,199 +3049,6 @@
       "pub_date": "2016-12-19T21:05:23+0000", 
       "section_name": "Fashion & Style"
     }, 
-    {
-      "type_of_material": "Obituary (Obit)", 
-      "blog": [], 
-      "news_desk": "Culture", 
-      "lead_paragraph": "Ms. Kim won Tony Awards for her designs in \u201cSophisticated Ladies\u201d and \u201cThe Will Rogers Follies,\u201d and worked in dance and opera as well.", 
-      "headline": {
-        "main": "Willa Kim, Designer of Fanciful Costumes, Dies at 99", 
-        "print_headline": "Willa Kim, Costumer of Inspired Whimsy, Dies at 99"
-      }, 
-      "abstract": null, 
-      "print_page": "28", 
-      "word_count": "1078", 
-      "_id": "5863d79e95d0e039260780a2", 
-      "snippet": "Ms. Kim won Tony Awards for her designs in \u201cSophisticated Ladies\u201d and \u201cThe Will Rogers Follies,\u201d and worked in dance and opera as well....", 
-      "source": "The New York Times", 
-      "slideshow_credits": null, 
-      "web_url": "http://www.nytimes.com/2016/12/28/theater/willa-kim-dead-tony-winning-costume-designer.html", 
-      "multimedia": [
-        {
-          "subtype": "wide", 
-          "url": "images/2016/12/25/arts/25kim-obit-1/25kim-obit-1-thumbWide.jpg", 
-          "height": 126, 
-          "width": 190, 
-          "legacy": {
-            "wide": "images/2016/12/25/arts/25kim-obit-1/25kim-obit-1-thumbWide.jpg", 
-            "wideheight": "126", 
-            "widewidth": "190"
-          }, 
-          "type": "image"
-        }, 
-        {
-          "subtype": "xlarge", 
-          "url": "images/2016/12/25/arts/25kim-obit-1/25kim-obit-1-articleLarge.jpg", 
-          "height": 910, 
-          "width": 600, 
-          "legacy": {
-            "xlargewidth": "600", 
-            "xlarge": "images/2016/12/25/arts/25kim-obit-1/25kim-obit-1-articleLarge.jpg", 
-            "xlargeheight": "910"
-          }, 
-          "type": "image"
-        }, 
-        {
-          "subtype": "thumbnail", 
-          "url": "images/2016/12/25/arts/25kim-obit-1/25kim-obit-1-thumbStandard.jpg", 
-          "height": 75, 
-          "width": 75, 
-          "legacy": {
-            "thumbnailheight": "75", 
-            "thumbnail": "images/2016/12/25/arts/25kim-obit-1/25kim-obit-1-thumbStandard.jpg", 
-            "thumbnailwidth": "75"
-          }, 
-          "type": "image"
-        }
-      ], 
-      "subsection_name": null, 
-      "keywords": [
-        {
-          "value": "Kim, Willa (1917-2016)", 
-          "is_major": "N", 
-          "rank": "1", 
-          "name": "persons"
-        }, 
-        {
-          "value": "Deaths (Obituaries)", 
-          "is_major": "N", 
-          "rank": "2", 
-          "name": "subject"
-        }, 
-        {
-          "value": "Theater", 
-          "is_major": "N", 
-          "rank": "3", 
-          "name": "subject"
-        }, 
-        {
-          "value": "Costumes", 
-          "is_major": "N", 
-          "rank": "4", 
-          "name": "subject"
-        }
-      ], 
-      "byline": {
-        "person": [
-          {
-            "organization": "", 
-            "role": "reported", 
-            "rank": 1, 
-            "firstname": "Anita", 
-            "lastname": "GATES"
-          }
-        ], 
-        "original": "By ANITA GATES"
-      }, 
-      "document_type": "article", 
-      "pub_date": "2016-12-28T15:17:44+0000", 
-      "section_name": "Theater"
-    }, 
-    {
-      "type_of_material": "Obituary (Obit)", 
-      "blog": [], 
-      "news_desk": "Culture", 
-      "lead_paragraph": "Mr. Snelson applied a fascination with geometric forms to create works that, he said, examined the \u201cwondrous essence of elementary structure.\u201d", 
-      "headline": {
-        "main": "Kenneth Snelson, Sculptor Who Fused Art, Science and Engineering, Dies at 89", 
-        "print_headline": "Kenneth Snelson, Whose Sculptures Fused Art, Science and Engineering, Dies at 89"
-      }, 
-      "abstract": "Kenneth Snelson, sculptor whose structural innovations were based on geometric forms and influenced by his teacher R Buckminster Fuller, dies at age 89.", 
-      "print_page": "11", 
-      "word_count": "1034", 
-      "_id": "585de28295d0e03926077a5f", 
-      "snippet": "Mr. Snelson applied a fascination with geometric forms to create works that, he said, examined the \u201cwondrous essence of elementary structure.\u201d...", 
-      "source": "The New York Times", 
-      "slideshow_credits": null, 
-      "web_url": "http://www.nytimes.com/2016/12/23/arts/design/kenneth-snelson-dead-sculptor.html", 
-      "multimedia": [
-        {
-          "subtype": "wide", 
-          "url": "images/2016/12/24/arts/24snelson-obit-6/24snelson-obit-6-thumbWide.jpg", 
-          "height": 126, 
-          "width": 190, 
-          "legacy": {
-            "wide": "images/2016/12/24/arts/24snelson-obit-6/24snelson-obit-6-thumbWide.jpg", 
-            "wideheight": "126", 
-            "widewidth": "190"
-          }, 
-          "type": "image"
-        }, 
-        {
-          "subtype": "xlarge", 
-          "url": "images/2016/12/24/arts/24snelson-obit-6/24snelson-obit-6-articleLarge.jpg", 
-          "height": 325, 
-          "width": 600, 
-          "legacy": {
-            "xlargewidth": "600", 
-            "xlarge": "images/2016/12/24/arts/24snelson-obit-6/24snelson-obit-6-articleLarge.jpg", 
-            "xlargeheight": "325"
-          }, 
-          "type": "image"
-        }, 
-        {
-          "subtype": "thumbnail", 
-          "url": "images/2016/12/24/arts/24snelson-obit-6/24snelson-obit-6-thumbStandard.jpg", 
-          "height": 75, 
-          "width": 75, 
-          "legacy": {
-            "thumbnailheight": "75", 
-            "thumbnail": "images/2016/12/24/arts/24snelson-obit-6/24snelson-obit-6-thumbStandard.jpg", 
-            "thumbnailwidth": "75"
-          }, 
-          "type": "image"
-        }
-      ], 
-      "subsection_name": "Art & Design", 
-      "keywords": [
-        {
-          "value": "Snelson, Kenneth (1927-2016)", 
-          "is_major": "Y", 
-          "rank": "1", 
-          "name": "persons"
-        }, 
-        {
-          "value": "Deaths (Obituaries)", 
-          "is_major": "Y", 
-          "rank": "2", 
-          "name": "subject"
-        }, 
-        {
-          "value": "Sculpture", 
-          "is_major": "N", 
-          "rank": "3", 
-          "name": "subject"
-        }
-      ], 
-      "byline": {
-        "contributor": "", 
-        "person": [
-          {
-            "organization": "", 
-            "role": "reported", 
-            "rank": 1, 
-            "firstname": "William", 
-            "lastname": "GRIMES"
-          }
-        ], 
-        "original": "By WILLIAM GRIMES"
-      }, 
-      "document_type": "article", 
-      "pub_date": "2016-12-24T02:50:39+0000", 
-      "section_name": "Arts"
-    }
-  ], 
-  [
     {
       "type_of_material": "Obituary (Obit)", 
       "blog": [], 
@@ -4137,104 +3255,6 @@
       "type_of_material": "Obituary (Obit)", 
       "blog": [], 
       "news_desk": "National", 
-      "lead_paragraph": "Under Mr. Hudnut, Indianapolis went from a sleepy Midwestern town to a thriving city, a transformation driven largely by a focus on professional sports.", 
-      "headline": {
-        "main": "William Hudnut, Mayor Who Transformed Indianapolis, Is Dead at 84", 
-        "print_headline": "William Hudnut, 84, Mayor Who Built Up Indianapolis"
-      }, 
-      "abstract": "William H Hudnut III, who rejuvenated downtown Indianapolis with emphasis on professional sporting events over his four terms as mayor, dies at age 84.", 
-      "print_page": "20", 
-      "word_count": "641", 
-      "_id": "5857484b95d0e03926076b33", 
-      "snippet": "Under Mr. Hudnut, Indianapolis went from a sleepy Midwestern town to a thriving city, a transformation driven largely by a focus on professional sports....", 
-      "source": "The New York Times", 
-      "slideshow_credits": null, 
-      "web_url": "http://www.nytimes.com/2016/12/18/us/william-hudnut-mayor-who-transformed-indianapolis-is-dead-at-84.html", 
-      "multimedia": [
-        {
-          "subtype": "wide", 
-          "url": "images/2016/12/19/obituaries/19hudnut/19hudnut-thumbWide.jpg", 
-          "height": 126, 
-          "width": 190, 
-          "legacy": {
-            "wide": "images/2016/12/19/obituaries/19hudnut/19hudnut-thumbWide.jpg", 
-            "wideheight": "126", 
-            "widewidth": "190"
-          }, 
-          "type": "image"
-        }, 
-        {
-          "subtype": "xlarge", 
-          "url": "images/2016/12/19/obituaries/19hudnut/19hudnut-articleLarge.jpg", 
-          "height": 400, 
-          "width": 600, 
-          "legacy": {
-            "xlargewidth": "600", 
-            "xlarge": "images/2016/12/19/obituaries/19hudnut/19hudnut-articleLarge.jpg", 
-            "xlargeheight": "400"
-          }, 
-          "type": "image"
-        }, 
-        {
-          "subtype": "thumbnail", 
-          "url": "images/2016/12/19/obituaries/19hudnut/19hudnut-thumbStandard.jpg", 
-          "height": 75, 
-          "width": 75, 
-          "legacy": {
-            "thumbnailheight": "75", 
-            "thumbnail": "images/2016/12/19/obituaries/19hudnut/19hudnut-thumbStandard.jpg", 
-            "thumbnailwidth": "75"
-          }, 
-          "type": "image"
-        }
-      ], 
-      "subsection_name": null, 
-      "keywords": [
-        {
-          "value": "Hudnut, William III (1932-2016)", 
-          "is_major": "N", 
-          "rank": "1", 
-          "name": "persons"
-        }, 
-        {
-          "value": "Indianapolis (Ind)", 
-          "is_major": "N", 
-          "rank": "2", 
-          "name": "glocations"
-        }, 
-        {
-          "value": "Mayors", 
-          "is_major": "N", 
-          "rank": "3", 
-          "name": "subject"
-        }, 
-        {
-          "value": "Deaths (Obituaries)", 
-          "is_major": "Y", 
-          "rank": "4", 
-          "name": "subject"
-        }
-      ], 
-      "byline": {
-        "person": [
-          {
-            "organization": "", 
-            "role": "reported", 
-            "rank": 1, 
-            "firstname": "Liam", 
-            "lastname": "STACK"
-          }
-        ], 
-        "original": "By LIAM STACK"
-      }, 
-      "document_type": "article", 
-      "pub_date": "2016-12-19T02:38:59+0000", 
-      "section_name": "U.S."
-    }, 
-    {
-      "type_of_material": "Obituary (Obit)", 
-      "blog": [], 
-      "news_desk": "National", 
       "lead_paragraph": "Dr. Wilkins, who studied dentistry at a time when few women did, wrote an influential textbook in 1959 that is still used worldwide.", 
       "headline": {
         "main": "Esther Wilkins, Who Set Standards for Dental Hygienists, Dies at 100", 
@@ -4330,6 +3350,104 @@
       "document_type": "article", 
       "pub_date": "2016-12-20T00:36:29+0000", 
       "section_name": "Health"
+    }, 
+    {
+      "type_of_material": "Obituary (Obit)", 
+      "blog": [], 
+      "news_desk": "National", 
+      "lead_paragraph": "Under Mr. Hudnut, Indianapolis went from a sleepy Midwestern town to a thriving city, a transformation driven largely by a focus on professional sports.", 
+      "headline": {
+        "main": "William Hudnut, Mayor Who Transformed Indianapolis, Is Dead at 84", 
+        "print_headline": "William Hudnut, 84, Mayor Who Built Up Indianapolis"
+      }, 
+      "abstract": "William H Hudnut III, who rejuvenated downtown Indianapolis with emphasis on professional sporting events over his four terms as mayor, dies at age 84.", 
+      "print_page": "20", 
+      "word_count": "641", 
+      "_id": "5857484b95d0e03926076b33", 
+      "snippet": "Under Mr. Hudnut, Indianapolis went from a sleepy Midwestern town to a thriving city, a transformation driven largely by a focus on professional sports....", 
+      "source": "The New York Times", 
+      "slideshow_credits": null, 
+      "web_url": "http://www.nytimes.com/2016/12/18/us/william-hudnut-mayor-who-transformed-indianapolis-is-dead-at-84.html", 
+      "multimedia": [
+        {
+          "subtype": "wide", 
+          "url": "images/2016/12/19/obituaries/19hudnut/19hudnut-thumbWide.jpg", 
+          "height": 126, 
+          "width": 190, 
+          "legacy": {
+            "wide": "images/2016/12/19/obituaries/19hudnut/19hudnut-thumbWide.jpg", 
+            "wideheight": "126", 
+            "widewidth": "190"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "xlarge", 
+          "url": "images/2016/12/19/obituaries/19hudnut/19hudnut-articleLarge.jpg", 
+          "height": 400, 
+          "width": 600, 
+          "legacy": {
+            "xlargewidth": "600", 
+            "xlarge": "images/2016/12/19/obituaries/19hudnut/19hudnut-articleLarge.jpg", 
+            "xlargeheight": "400"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "thumbnail", 
+          "url": "images/2016/12/19/obituaries/19hudnut/19hudnut-thumbStandard.jpg", 
+          "height": 75, 
+          "width": 75, 
+          "legacy": {
+            "thumbnailheight": "75", 
+            "thumbnail": "images/2016/12/19/obituaries/19hudnut/19hudnut-thumbStandard.jpg", 
+            "thumbnailwidth": "75"
+          }, 
+          "type": "image"
+        }
+      ], 
+      "subsection_name": null, 
+      "keywords": [
+        {
+          "value": "Hudnut, William III (1932-2016)", 
+          "is_major": "N", 
+          "rank": "1", 
+          "name": "persons"
+        }, 
+        {
+          "value": "Indianapolis (Ind)", 
+          "is_major": "N", 
+          "rank": "2", 
+          "name": "glocations"
+        }, 
+        {
+          "value": "Mayors", 
+          "is_major": "N", 
+          "rank": "3", 
+          "name": "subject"
+        }, 
+        {
+          "value": "Deaths (Obituaries)", 
+          "is_major": "Y", 
+          "rank": "4", 
+          "name": "subject"
+        }
+      ], 
+      "byline": {
+        "person": [
+          {
+            "organization": "", 
+            "role": "reported", 
+            "rank": 1, 
+            "firstname": "Liam", 
+            "lastname": "STACK"
+          }
+        ], 
+        "original": "By LIAM STACK"
+      }, 
+      "document_type": "article", 
+      "pub_date": "2016-12-19T02:38:59+0000", 
+      "section_name": "U.S."
     }, 
     {
       "type_of_material": "Obituary (Obit)", 
@@ -4827,7 +3945,9 @@
       "document_type": "article", 
       "pub_date": "2016-12-17T02:51:34+0000", 
       "section_name": "World"
-    }, 
+    }
+  ], 
+  [
     {
       "type_of_material": "Obituary (Obit)", 
       "blog": [], 
@@ -4925,9 +4045,7 @@
       "document_type": "article", 
       "pub_date": "2016-12-15T00:53:11+0000", 
       "section_name": "World"
-    }
-  ], 
-  [
+    }, 
     {
       "type_of_material": "Obituary (Obit)", 
       "blog": [], 
@@ -5867,7 +4985,9 @@
       "document_type": "article", 
       "pub_date": "2016-12-13T21:40:24+0000", 
       "section_name": "Books"
-    }, 
+    }
+  ], 
+  [
     {
       "type_of_material": "Obituary (Obit)", 
       "blog": [], 
@@ -5971,9 +5091,7 @@
       "document_type": "article", 
       "pub_date": "2016-12-13T02:15:14+0000", 
       "section_name": "Arts"
-    }
-  ], 
-  [
+    }, 
     {
       "type_of_material": "Obituary (Obit)", 
       "blog": [], 
@@ -6387,97 +5505,6 @@
     {
       "type_of_material": "Obituary (Obit)", 
       "blog": [], 
-      "news_desk": "Sports", 
-      "lead_paragraph": "Mr. Elrod, who was known as Jimbo, played on the Oklahoma team that went undefeated in 1974 and spent four years in the N.F.L., with the Chiefs and the Oilers.", 
-      "headline": {
-        "main": "James Elrod, Twice a National Football Champion at Oklahoma, Dies at 62", 
-        "print_headline": "James Elrod, 62, Football Champion at Oklahoma"
-      }, 
-      "abstract": "James Elrod, all-American football player on University of Oklahoma's national championship team in 1970s, dies at age 62.", 
-      "print_page": "17", 
-      "word_count": "252", 
-      "_id": "584f878195d0e03926075a1e", 
-      "snippet": "Mr. Elrod, who was known as Jimbo, played on the Oklahoma team that went undefeated in 1974 and spent four years in the N.F.L., with the Chiefs and the Oilers....", 
-      "source": "The New York Times", 
-      "slideshow_credits": null, 
-      "web_url": "http://www.nytimes.com/2016/12/13/sports/ncaafootball/james-jimbo-elrod-dead-oklahoma.html", 
-      "multimedia": [
-        {
-          "subtype": "wide", 
-          "url": "images/2016/12/13/sports/13elrod-obit-1/13elrod-obit-1-thumbWide.jpg", 
-          "height": 126, 
-          "width": 190, 
-          "legacy": {
-            "wide": "images/2016/12/13/sports/13elrod-obit-1/13elrod-obit-1-thumbWide.jpg", 
-            "wideheight": "126", 
-            "widewidth": "190"
-          }, 
-          "type": "image"
-        }, 
-        {
-          "subtype": "xlarge", 
-          "url": "images/2016/12/13/sports/13elrod-obit-1/13elrod-obit-1-articleLarge.jpg", 
-          "height": 832, 
-          "width": 600, 
-          "legacy": {
-            "xlargewidth": "600", 
-            "xlarge": "images/2016/12/13/sports/13elrod-obit-1/13elrod-obit-1-articleLarge.jpg", 
-            "xlargeheight": "832"
-          }, 
-          "type": "image"
-        }, 
-        {
-          "subtype": "thumbnail", 
-          "url": "images/2016/12/13/sports/13elrod-obit-1/13elrod-obit-1-thumbStandard.jpg", 
-          "height": 75, 
-          "width": 75, 
-          "legacy": {
-            "thumbnailheight": "75", 
-            "thumbnail": "images/2016/12/13/sports/13elrod-obit-1/13elrod-obit-1-thumbStandard.jpg", 
-            "thumbnailwidth": "75"
-          }, 
-          "type": "image"
-        }
-      ], 
-      "subsection_name": "College Football", 
-      "keywords": [
-        {
-          "value": "Football", 
-          "is_major": "N", 
-          "rank": "1", 
-          "name": "subject"
-        }, 
-        {
-          "value": "Deaths (Obituaries)", 
-          "is_major": "Y", 
-          "rank": "2", 
-          "name": "subject"
-        }, 
-        {
-          "value": "Elrod, James (1954-2016)", 
-          "is_major": "N", 
-          "rank": "3", 
-          "name": "persons"
-        }, 
-        {
-          "value": "University of Oklahoma", 
-          "is_major": "N", 
-          "rank": "4", 
-          "name": "organizations"
-        }
-      ], 
-      "byline": {
-        "person": [], 
-        "original": "By THE ASSOCIATED PRESS", 
-        "organization": "THE ASSOCIATED PRESS"
-      }, 
-      "document_type": "article", 
-      "pub_date": "2016-12-13T05:30:35+0000", 
-      "section_name": "Sports"
-    }, 
-    {
-      "type_of_material": "Obituary (Obit)", 
-      "blog": [], 
       "news_desk": "Culture", 
       "lead_paragraph": "In addition to acting, Mr. Thicke was a singer and songwriter who composed theme songs for numerous game shows and sitcoms.", 
       "headline": {
@@ -6592,6 +5619,97 @@
       "document_type": "article", 
       "pub_date": "2016-12-14T04:55:36+0000", 
       "section_name": "Arts"
+    }, 
+    {
+      "type_of_material": "Obituary (Obit)", 
+      "blog": [], 
+      "news_desk": "Sports", 
+      "lead_paragraph": "Mr. Elrod, who was known as Jimbo, played on the Oklahoma team that went undefeated in 1974 and spent four years in the N.F.L., with the Chiefs and the Oilers.", 
+      "headline": {
+        "main": "James Elrod, Twice a National Football Champion at Oklahoma, Dies at 62", 
+        "print_headline": "James Elrod, 62, Football Champion at Oklahoma"
+      }, 
+      "abstract": "James Elrod, all-American football player on University of Oklahoma's national championship team in 1970s, dies at age 62.", 
+      "print_page": "17", 
+      "word_count": "252", 
+      "_id": "584f878195d0e03926075a1e", 
+      "snippet": "Mr. Elrod, who was known as Jimbo, played on the Oklahoma team that went undefeated in 1974 and spent four years in the N.F.L., with the Chiefs and the Oilers....", 
+      "source": "The New York Times", 
+      "slideshow_credits": null, 
+      "web_url": "http://www.nytimes.com/2016/12/13/sports/ncaafootball/james-jimbo-elrod-dead-oklahoma.html", 
+      "multimedia": [
+        {
+          "subtype": "wide", 
+          "url": "images/2016/12/13/sports/13elrod-obit-1/13elrod-obit-1-thumbWide.jpg", 
+          "height": 126, 
+          "width": 190, 
+          "legacy": {
+            "wide": "images/2016/12/13/sports/13elrod-obit-1/13elrod-obit-1-thumbWide.jpg", 
+            "wideheight": "126", 
+            "widewidth": "190"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "xlarge", 
+          "url": "images/2016/12/13/sports/13elrod-obit-1/13elrod-obit-1-articleLarge.jpg", 
+          "height": 832, 
+          "width": 600, 
+          "legacy": {
+            "xlargewidth": "600", 
+            "xlarge": "images/2016/12/13/sports/13elrod-obit-1/13elrod-obit-1-articleLarge.jpg", 
+            "xlargeheight": "832"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "thumbnail", 
+          "url": "images/2016/12/13/sports/13elrod-obit-1/13elrod-obit-1-thumbStandard.jpg", 
+          "height": 75, 
+          "width": 75, 
+          "legacy": {
+            "thumbnailheight": "75", 
+            "thumbnail": "images/2016/12/13/sports/13elrod-obit-1/13elrod-obit-1-thumbStandard.jpg", 
+            "thumbnailwidth": "75"
+          }, 
+          "type": "image"
+        }
+      ], 
+      "subsection_name": "College Football", 
+      "keywords": [
+        {
+          "value": "Football", 
+          "is_major": "N", 
+          "rank": "1", 
+          "name": "subject"
+        }, 
+        {
+          "value": "Deaths (Obituaries)", 
+          "is_major": "Y", 
+          "rank": "2", 
+          "name": "subject"
+        }, 
+        {
+          "value": "Elrod, James (1954-2016)", 
+          "is_major": "N", 
+          "rank": "3", 
+          "name": "persons"
+        }, 
+        {
+          "value": "University of Oklahoma", 
+          "is_major": "N", 
+          "rank": "4", 
+          "name": "organizations"
+        }
+      ], 
+      "byline": {
+        "person": [], 
+        "original": "By THE ASSOCIATED PRESS", 
+        "organization": "THE ASSOCIATED PRESS"
+      }, 
+      "document_type": "article", 
+      "pub_date": "2016-12-13T05:30:35+0000", 
+      "section_name": "Sports"
     }, 
     {
       "type_of_material": "Obituary (Obit)", 
@@ -6911,7 +6029,9 @@
       "document_type": "article", 
       "pub_date": "2016-12-12T00:33:49+0000", 
       "section_name": "Sports"
-    }, 
+    }
+  ], 
+  [
     {
       "type_of_material": "Obituary (Obit)", 
       "blog": [], 
@@ -7010,9 +6130,7 @@
       "document_type": "article", 
       "pub_date": "2016-12-10T02:01:31+0000", 
       "section_name": "Arts"
-    }
-  ], 
-  [
+    }, 
     {
       "type_of_material": "Obituary (Obit)", 
       "blog": [], 
@@ -7988,7 +7106,9 @@
       "document_type": "article", 
       "pub_date": "2016-12-07T22:17:55+0000", 
       "section_name": "N.Y. / Region"
-    }, 
+    }
+  ], 
+  [
     {
       "type_of_material": "Obituary (Obit)", 
       "blog": [], 
@@ -8105,9 +7225,7 @@
       "document_type": "article", 
       "pub_date": "2016-12-06T00:18:56+0000", 
       "section_name": "N.Y. / Region"
-    }
-  ], 
-  [
+    }, 
     {
       "type_of_material": "Obituary (Obit)", 
       "blog": [], 
@@ -9085,7 +8203,9 @@
       "document_type": "article", 
       "pub_date": "2016-12-06T01:19:39+0000", 
       "section_name": "Movies"
-    }, 
+    }
+  ], 
+  [
     {
       "type_of_material": "Obituary (Obit)", 
       "blog": [], 
@@ -9184,9 +8304,7 @@
       "document_type": "article", 
       "pub_date": "2016-12-04T02:38:44+0000", 
       "section_name": "U.S."
-    }
-  ], 
-  [
+    }, 
     {
       "type_of_material": "Obituary (Obit)", 
       "blog": [], 
@@ -10154,7 +9272,9 @@
       "document_type": "article", 
       "pub_date": "2016-12-02T21:08:05+0000", 
       "section_name": "U.S."
-    }, 
+    }
+  ], 
+  [
     {
       "type_of_material": "Obituary (Obit)", 
       "blog": [], 
@@ -10258,9 +9378,7 @@
       "document_type": "article", 
       "pub_date": "2016-11-30T21:08:15+0000", 
       "section_name": "Technology"
-    }
-  ], 
-  [
+    }, 
     {
       "type_of_material": "Obituary (Obit)", 
       "blog": [], 
@@ -11149,7 +10267,9 @@
       "document_type": "article", 
       "pub_date": "2016-11-30T23:52:04+0000", 
       "section_name": "Arts"
-    }, 
+    }
+  ], 
+  [
     {
       "type_of_material": "News", 
       "blog": [], 
@@ -11320,9 +10440,7 @@
       "document_type": "article", 
       "pub_date": "2016-12-23T20:47:29+0000", 
       "section_name": "Arts"
-    }
-  ], 
-  [
+    }, 
     {
       "type_of_material": "News", 
       "blog": [], 
@@ -11652,31 +10770,6 @@
       "type_of_material": "Correction", 
       "blog": [], 
       "news_desk": "Summary", 
-      "lead_paragraph": "Corrections appearing in print on Tuesday, December 6, 2016.", 
-      "headline": {
-        "main": "Corrections: December 6, 2016", 
-        "print_headline": "Corrections"
-      }, 
-      "abstract": null, 
-      "print_page": "2", 
-      "word_count": "502", 
-      "_id": "58464d3895d0e039260744a5", 
-      "snippet": "Corrections appearing in print on Tuesday, December 6, 2016....", 
-      "source": "The New York Times", 
-      "slideshow_credits": null, 
-      "web_url": "http://www.nytimes.com/2016/12/06/pageoneplus/corrections-december-6-2016.html", 
-      "multimedia": [], 
-      "subsection_name": null, 
-      "keywords": [], 
-      "byline": [], 
-      "document_type": "article", 
-      "pub_date": "2016-12-06T05:31:31+0000", 
-      "section_name": "Corrections"
-    }, 
-    {
-      "type_of_material": "Correction", 
-      "blog": [], 
-      "news_desk": "Summary", 
       "lead_paragraph": "Corrections appearing in print on Saturday, December 24, 2016.", 
       "headline": {
         "main": "Corrections: December 24, 2016", 
@@ -11696,6 +10789,31 @@
       "byline": [], 
       "document_type": "article", 
       "pub_date": "2016-12-24T05:34:44+0000", 
+      "section_name": "Corrections"
+    }, 
+    {
+      "type_of_material": "Correction", 
+      "blog": [], 
+      "news_desk": "Summary", 
+      "lead_paragraph": "Corrections appearing in print on Tuesday, December 6, 2016.", 
+      "headline": {
+        "main": "Corrections: December 6, 2016", 
+        "print_headline": "Corrections"
+      }, 
+      "abstract": null, 
+      "print_page": "2", 
+      "word_count": "502", 
+      "_id": "58464d3895d0e039260744a5", 
+      "snippet": "Corrections appearing in print on Tuesday, December 6, 2016....", 
+      "source": "The New York Times", 
+      "slideshow_credits": null, 
+      "web_url": "http://www.nytimes.com/2016/12/06/pageoneplus/corrections-december-6-2016.html", 
+      "multimedia": [], 
+      "subsection_name": null, 
+      "keywords": [], 
+      "byline": [], 
+      "document_type": "article", 
+      "pub_date": "2016-12-06T05:31:31+0000", 
       "section_name": "Corrections"
     }, 
     {
@@ -11722,7 +10840,9 @@
       "document_type": "article", 
       "pub_date": "2016-12-09T05:54:42+0000", 
       "section_name": "Corrections"
-    }, 
+    }
+  ], 
+  [
     {
       "type_of_material": "News", 
       "blog": [], 
@@ -11751,9 +10871,7 @@
       "document_type": "article", 
       "pub_date": "2016-12-20T13:51:36+0000", 
       "section_name": "U.S."
-    }
-  ], 
-  [
+    }, 
     {
       "type_of_material": "Correction", 
       "blog": [], 
@@ -12215,7 +11333,9 @@
       "document_type": "article", 
       "pub_date": "2016-12-20T05:36:53+0000", 
       "section_name": "Corrections"
-    }, 
+    }
+  ], 
+  [
     {
       "type_of_material": "Correction", 
       "blog": [], 
@@ -12240,9 +11360,7 @@
       "document_type": "article", 
       "pub_date": "2016-12-16T04:58:34+0000", 
       "section_name": "Corrections"
-    }
-  ], 
-  [
+    }, 
     {
       "type_of_material": "News", 
       "blog": [], 
@@ -12514,103 +11632,6 @@
       "section_name": "N.Y. / Region"
     }, 
     {
-      "type_of_material": "News", 
-      "blog": [], 
-      "news_desk": "Culture", 
-      "lead_paragraph": "From a duet in 1985 with Elton John at Live Aid to \u201cCareless Whisper\u201d in 2008, a look back at the singer\u2019s skills as a live performer.", 
-      "headline": {
-        "main": "Watch George Michael Perform Live: 5 Memorable Videos"
-      }, 
-      "abstract": null, 
-      "print_page": null, 
-      "word_count": "676", 
-      "_id": "58609d0095d0e03926077c5c", 
-      "snippet": "From a duet in 1985 with Elton John at Live Aid to \u201cCareless Whisper\u201d in 2008, a look back at the singer\u2019s skills as a live performer....", 
-      "source": "The New York Times", 
-      "slideshow_credits": null, 
-      "web_url": "http://www.nytimes.com/2016/12/25/arts/music/george-michael-death-live-performances.html", 
-      "multimedia": [
-        {
-          "subtype": "wide", 
-          "url": "images/2016/12/26/arts/music/20161226_MICHAEL-slide-7HOX/20161226_MICHAEL-slide-7HOX-thumbWide.jpg", 
-          "height": 126, 
-          "width": 190, 
-          "legacy": {
-            "wide": "images/2016/12/26/arts/music/20161226_MICHAEL-slide-7HOX/20161226_MICHAEL-slide-7HOX-thumbWide.jpg", 
-            "wideheight": "126", 
-            "widewidth": "190"
-          }, 
-          "type": "image"
-        }, 
-        {
-          "subtype": "xlarge", 
-          "url": "images/2016/12/26/arts/music/20161226_MICHAEL-slide-7HOX/20161226_MICHAEL-slide-7HOX-articleLarge.jpg", 
-          "height": 424, 
-          "width": 600, 
-          "legacy": {
-            "xlargewidth": "600", 
-            "xlarge": "images/2016/12/26/arts/music/20161226_MICHAEL-slide-7HOX/20161226_MICHAEL-slide-7HOX-articleLarge.jpg", 
-            "xlargeheight": "424"
-          }, 
-          "type": "image"
-        }, 
-        {
-          "subtype": "thumbnail", 
-          "url": "images/2016/12/26/arts/music/20161226_MICHAEL-slide-7HOX/20161226_MICHAEL-slide-7HOX-thumbStandard.jpg", 
-          "height": 75, 
-          "width": 75, 
-          "legacy": {
-            "thumbnailheight": "75", 
-            "thumbnail": "images/2016/12/26/arts/music/20161226_MICHAEL-slide-7HOX/20161226_MICHAEL-slide-7HOX-thumbStandard.jpg", 
-            "thumbnailwidth": "75"
-          }, 
-          "type": "image"
-        }
-      ], 
-      "subsection_name": "Music", 
-      "keywords": [
-        {
-          "value": "Michael, George", 
-          "is_major": "N", 
-          "rank": "1", 
-          "name": "persons"
-        }, 
-        {
-          "value": "Pop and Rock Music", 
-          "is_major": "N", 
-          "rank": "2", 
-          "name": "subject"
-        }, 
-        {
-          "value": "John, Elton", 
-          "is_major": "N", 
-          "rank": "3", 
-          "name": "persons"
-        }, 
-        {
-          "value": "Queen (Music Group)", 
-          "is_major": "N", 
-          "rank": "4", 
-          "name": "organizations"
-        }
-      ], 
-      "byline": {
-        "person": [
-          {
-            "organization": "", 
-            "role": "reported", 
-            "rank": 1, 
-            "firstname": "Caryn", 
-            "lastname": "GANZ"
-          }
-        ], 
-        "original": "By CARYN GANZ"
-      }, 
-      "document_type": "article", 
-      "pub_date": "2016-12-26T04:30:46+0000", 
-      "section_name": "Arts"
-    }, 
-    {
       "type_of_material": "An Appraisal", 
       "blog": [], 
       "news_desk": "Culture", 
@@ -12721,6 +11742,103 @@
       }, 
       "document_type": "article", 
       "pub_date": "2016-12-27T23:41:17+0000", 
+      "section_name": "Arts"
+    }, 
+    {
+      "type_of_material": "News", 
+      "blog": [], 
+      "news_desk": "Culture", 
+      "lead_paragraph": "From a duet in 1985 with Elton John at Live Aid to \u201cCareless Whisper\u201d in 2008, a look back at the singer\u2019s skills as a live performer.", 
+      "headline": {
+        "main": "Watch George Michael Perform Live: 5 Memorable Videos"
+      }, 
+      "abstract": null, 
+      "print_page": null, 
+      "word_count": "676", 
+      "_id": "58609d0095d0e03926077c5c", 
+      "snippet": "From a duet in 1985 with Elton John at Live Aid to \u201cCareless Whisper\u201d in 2008, a look back at the singer\u2019s skills as a live performer....", 
+      "source": "The New York Times", 
+      "slideshow_credits": null, 
+      "web_url": "http://www.nytimes.com/2016/12/25/arts/music/george-michael-death-live-performances.html", 
+      "multimedia": [
+        {
+          "subtype": "wide", 
+          "url": "images/2016/12/26/arts/music/20161226_MICHAEL-slide-7HOX/20161226_MICHAEL-slide-7HOX-thumbWide.jpg", 
+          "height": 126, 
+          "width": 190, 
+          "legacy": {
+            "wide": "images/2016/12/26/arts/music/20161226_MICHAEL-slide-7HOX/20161226_MICHAEL-slide-7HOX-thumbWide.jpg", 
+            "wideheight": "126", 
+            "widewidth": "190"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "xlarge", 
+          "url": "images/2016/12/26/arts/music/20161226_MICHAEL-slide-7HOX/20161226_MICHAEL-slide-7HOX-articleLarge.jpg", 
+          "height": 424, 
+          "width": 600, 
+          "legacy": {
+            "xlargewidth": "600", 
+            "xlarge": "images/2016/12/26/arts/music/20161226_MICHAEL-slide-7HOX/20161226_MICHAEL-slide-7HOX-articleLarge.jpg", 
+            "xlargeheight": "424"
+          }, 
+          "type": "image"
+        }, 
+        {
+          "subtype": "thumbnail", 
+          "url": "images/2016/12/26/arts/music/20161226_MICHAEL-slide-7HOX/20161226_MICHAEL-slide-7HOX-thumbStandard.jpg", 
+          "height": 75, 
+          "width": 75, 
+          "legacy": {
+            "thumbnailheight": "75", 
+            "thumbnail": "images/2016/12/26/arts/music/20161226_MICHAEL-slide-7HOX/20161226_MICHAEL-slide-7HOX-thumbStandard.jpg", 
+            "thumbnailwidth": "75"
+          }, 
+          "type": "image"
+        }
+      ], 
+      "subsection_name": "Music", 
+      "keywords": [
+        {
+          "value": "Michael, George", 
+          "is_major": "N", 
+          "rank": "1", 
+          "name": "persons"
+        }, 
+        {
+          "value": "Pop and Rock Music", 
+          "is_major": "N", 
+          "rank": "2", 
+          "name": "subject"
+        }, 
+        {
+          "value": "John, Elton", 
+          "is_major": "N", 
+          "rank": "3", 
+          "name": "persons"
+        }, 
+        {
+          "value": "Queen (Music Group)", 
+          "is_major": "N", 
+          "rank": "4", 
+          "name": "organizations"
+        }
+      ], 
+      "byline": {
+        "person": [
+          {
+            "organization": "", 
+            "role": "reported", 
+            "rank": 1, 
+            "firstname": "Caryn", 
+            "lastname": "GANZ"
+          }
+        ], 
+        "original": "By CARYN GANZ"
+      }, 
+      "document_type": "article", 
+      "pub_date": "2016-12-26T04:30:46+0000", 
       "section_name": "Arts"
     }, 
     {
@@ -12936,7 +12054,9 @@
       "document_type": "article", 
       "pub_date": "2016-12-27T22:50:37+0000", 
       "section_name": "Briefing"
-    }, 
+    }
+  ], 
+  [
     {
       "type_of_material": "News", 
       "blog": [], 
@@ -13021,9 +12141,7 @@
       "document_type": "article", 
       "pub_date": "2016-12-14T10:50:17+0000", 
       "section_name": "World"
-    }
-  ], 
-  [
+    }, 
     {
       "type_of_material": "News", 
       "blog": [], 
@@ -13777,7 +12895,9 @@
       "document_type": "article", 
       "pub_date": "2016-12-26T22:58:11+0000", 
       "section_name": "Arts"
-    }, 
+    }
+  ], 
+  [
     {
       "type_of_material": "News", 
       "blog": [], 
@@ -13877,9 +12997,7 @@
       "document_type": "article", 
       "pub_date": "2016-12-26T16:30:06+0000", 
       "section_name": "Arts"
-    }
-  ], 
-  [
+    }, 
     {
       "type_of_material": "News", 
       "blog": [], 

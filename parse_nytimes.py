@@ -25,7 +25,7 @@ files = os.listdir('NYTimesData')
 for f in files:
     if re.match(r'nytimes-.*\.json$', f):
         try:
-            json_content = json.loads(open(f, 'r').read())
+            json_content = json.loads(open("NYTimesData/" + f, 'r').read())
         except Exception as e:
             print e
         for i in json_content:
